@@ -117,7 +117,7 @@
                             <a href="project-single.html">
                             <span class="project-item-category">Factory</span>
                             <h2 class="project-item-title">
-                                Balanças para pesagem de animais
+                               Balanças para pesagem de animais
                             </h2>
                             </a>
                         </div>
