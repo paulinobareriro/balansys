@@ -117,11 +117,11 @@
                             <a href="project-single.html">
                             <span class="project-item-category">Factory</span>
                             <h2 class="project-item-title">
-                               Monocélula
+                                Balanças para pesagem de animais
                             </h2>
                             </a>
                         </div>
-                        <img src="images/works_2.jpg" alt="Image" class="img-fluid">
+                        <img src="images/bal_animais.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
