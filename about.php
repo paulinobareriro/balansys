@@ -135,7 +135,7 @@
                 </figure>
                 <div class="person-contents">
                   <h3>Luis Cabrales</h3>
-                  <span class="position">Engineer</span>
+                  <span class="position"></span>
                 </div>
               </div>
             </div>
@@ -152,7 +152,7 @@
                 </figure>
                 <div class="person-contents">
                   <h3>Alexis Infante</h3>
-                  <span class="position">Engineer</span>
+                  <span class="position"></span>
                 </div>
               </div>
             </div>
@@ -169,7 +169,7 @@
                 </figure>
                 <div class="person-contents">
                   <h3>José do Barreiro</h3>
-                  <span class="position">Engineer</span>
+                  <span class="position"></span>
                 </div>
               </div>
             </div>
