@@ -144,11 +144,11 @@
                             <a href="project-single.html">
                             <span class="project-item-category">Factory</span>
                             <h2 class="project-item-title">
-                              Conta Peças 
+                              Pesagem especializada na indústria da aviação
                             </h2>
                             </a>
                         </div>
-                        <img src="images/works_4.jpg" alt="Image" class="img-fluid">
+                        <img src="images/bal_aviacion.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
