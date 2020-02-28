@@ -1,3 +1,19 @@
+<?php 
+if(isset($_POST['submit'])){
+    $mailto = "paulino.barreiro@balansys.pt"; // Balansys email address 
+    $from = $_POST['email'];   // Sender email address 
+    $name = $_POST['name'];
+    $subject = $_POST['subject'];
+    $message = $_POST['message'];
+    $headers = "From:" . $from;
+
+    mail($mailto,$subject,$message,$headers);
+
+    
+    echo "Correio enviado. Obrigado " . $first_name . ", entraremos em contato em breve.";
+    // You can also use header('Location: thank_you.php'); to redirect to another page.
+    }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <!--Begin Head-->
@@ -226,25 +242,25 @@
               <form action="#" class="quote-form">
                 <div class="row">
                   <div class="col-md-6 form-group">
-                    <input type="text" class="form-control" placeholder="Seu nome*">
+                    <input type="text" name="name" class="form-control" placeholder="Seu nome*">
                   </div>
                   <div class="col-md-6 form-group">
-                    <input type="text" class="form-control" placeholder="Seu telefone*">
+                    <input type="text" name="phone" class="form-control" placeholder="Seu telefone*">
                   </div>
                 </div>
 
                 <div class="row">
                   <div class="col-md-6 form-group">
-                    <input type="text" class="form-control" placeholder="Seu email*">
+                    <input type="text" name="email" class="form-control" placeholder="Seu email*">
                   </div>
                   <div class="col-md-6 form-group">
-                    <input type="text" class="form-control" placeholder="Assunto*">
+                    <input type="text" name="subject" class="form-control" placeholder="Assunto*">
                   </div>
                 </div>
 
                 <div class="row">
                   <div class="col-md-6">
-                    <textarea name="" class="form-control" id="" placeholder="Como podemos ajudar*" cols="30" rows="7"></textarea>
+                    <textarea name="message" class="form-control" id="" placeholder="Como podemos ajudar*" cols="30" rows="7"></textarea>
                   </div>
                   <div class="col-md-6 align-self-end">
                     <input type="submit" class="btn btn-primary btn-block btn-lg rounded-0" value="Enviar Mensagem">
