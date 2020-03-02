@@ -1,0 +1,61 @@
+<div class="site-section Nossos Serviços-1-wrap">
+      <div class="container">
+        <div class="row mb-5 justify-content-center text-center">
+          <div class="col-lg-5">
+              <h3 class="section-subtitle">O QUE NÓS FAZEMOS</h3>
+              <h2 class="section-title mb-4 text-black">Somos Especializados em <strong>Soluções de Balança.</strong> Amamos o Que Fazemos.</h2>
+          </div>
+        </div>
+        <div class="row no-gutters">
+          <div class="col-lg-3 col-md-6">
+            <div class="service-1">
+              <span class="number">01</span>
+              <div class="service-1-icon">
+                <span class="flaticon-engineer"></span>
+              </div>
+              <div class="service-1-content">
+                <h3 class="service-heading"> Nossa Equipe Profissional</h3>
+                <p>Profissionais, qualificados, dinâmicos e apaixonados pelo que fazem</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="service-1">
+              <span class="number">02</span>
+              <div class="service-1-icon">
+                <span class="flaticon-compass"></span>
+              </div>
+              <div class="service-1-content">
+                <h3 class="service-heading">Grandes ideias</h3>
+                <p>Gravida sodales condimentum pellen tesq accumsan orci quam sagittis sapie</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="service-1">
+              <span class="number">03</span>
+              <div class="service-1-icon">
+                <span class="flaticon-oil-platform"></span>
+              </div>
+              <div class="service-1-content">
+                <h3 class="service-heading">Projetos de qualidade</h3>
+                <p>Gravida sodales condimentum pellen tesq accumsan orci quam sagittis sapie</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="service-1">
+              <span class="number">04</span>
+              <div class="service-1-icon">
+                <span class="flaticon-crane"></span>
+              </div>
+              <div class="service-1-content">
+                <h3 class="service-heading">Trabalhos de qualidade</h3>
+                <p>Gravida sodales condimentum pellen tesq accumsan orci quam sagittis sapie</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- END Nossos Serviços -->
