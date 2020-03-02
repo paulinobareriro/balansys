@@ -53,7 +53,7 @@
               </div>
               <div class="service-1-content">
                 <h3 class="service-heading">Trabalhos de qualidade</h3>
-                <p>Gravida sodales condimentum pellen tesq accumsan orci quam sagittis sapie</p>
+                <p>A aposta foi sempre na qualidade e a garantia de dar o melhor serviço possível ao cliente, o qual se deve sentir acompanhado do princípio </p>
               </div>
             </div>
           </div>
