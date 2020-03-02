@@ -120,7 +120,8 @@ if(isset($_POST['submit'])){
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
-              <h1>Somos especializados em <strong>soluções de balança</strong></h1>
+            
+              <h1>Somos especialistas em <strong>Soluções de Pesagem</strong> para a Indústria</h1>
             </div>
           </div>
         </div>
@@ -278,7 +279,7 @@ if(isset($_POST['submit'])){
         <div class="row">
           <div class="col-lg-3">
             <p class="mb-4"><img src="images/logo_balancys.png" alt="Image" class="img-fluid"></p>
-            <p>Comercialização e serviço de equipamentos de pesagem programáveis e automação das melhores marcas, que atendem às necessidades do cliente para melhorar sua produção.</p>  
+            <p>A <strong>Balansys</strong> projeta, constrói e comercializa dispositivos e soluções integradas de pesagem, baseadas nas mais recentes tecnologias, e adaptadas às necessidades específicas de cada área de atividade.</p>  
             <!--
             <p><a href="#">Learn More</a></p>
             -->
