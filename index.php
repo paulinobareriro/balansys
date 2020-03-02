@@ -180,7 +180,7 @@ if(isset($_POST['submit'])){
       <div class="container">
         
         <div class="mb-5">
-          <h3 class="section-subtitle">Nossos Projetos</h3>
+          <h3 class="section-subtitle">Áreas de Atuação</h3>
           <h2 class="section-title mb-4">Explore nossos <strong>Projetos Recentes</strong></h2>
         </div>
 
@@ -206,7 +206,7 @@ if(isset($_POST['submit'])){
                   </h2>
                 </a>
               </div>
-              <img src="images/bal_rail.jpg" alt="Image" class="img-fluid">
+              <img src="images/bal_railÁREAS DE ATUAÇÃO   ÁREAS DE ATUAÇÃO.jpg" alt="Image" class="img-fluid">
             </div>
             <div class="project-item">
               <div class="project-item-contents">
