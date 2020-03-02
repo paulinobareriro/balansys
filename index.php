@@ -110,7 +110,7 @@ if(isset($_POST['submit'])){
           <div class="row align-items-center">
             <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
               <span class="d-block"></span>
-              <h1>Soluções na diversidade de indústrias</h1>
+              <h1>Otimizamos os seus processos logísticos de pesagem</h1>
             </div>
           </div>
         </div>
@@ -227,7 +227,7 @@ if(isset($_POST['submit'])){
                 <a href="#">
                   <span class="project-item-category"></span>
                   <h2 class="project-item-title">
-                    Building Refinery 
+                      Balanças Rodoviárias 
                   </h2>
                 </a>
               </div>
