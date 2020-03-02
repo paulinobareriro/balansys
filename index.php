@@ -287,13 +287,14 @@ if(isset($_POST['submit'])){
                 <li><a href="#">Sobre Nós</a></li>
                 <!--<li><a href="#">News</a></li> -->
                 <li><a href="#">Nossos Serviços</a></li>
-                <li><a href="#"> Nossa Equipe Profissional</a></li>
+                <li><a href="#">Nossa Equipe Profissional</a></li>
                 <!--
                 <li><a href="#">Careers</a></li>
                 <li><a href="#">Projects</a></li>
                 -->
             </ul>
           </div>
+          <!--
           <div class="col-lg-3">
               <h3 class="footer-heading"><span>Nossos Serviços</span></h3>
               <ul class="list-unstyled">
@@ -302,6 +303,8 @@ if(isset($_POST['submit'])){
                   <li><a href="#">Remodeling</a></li>
               </ul>
           </div>
+          -->
+          <!--
           <div class="col-lg-3">
               <h3 class="footer-heading"><span>Contact</span></h3>
               <ul class="list-unstyled">
@@ -312,6 +315,7 @@ if(isset($_POST['submit'])){
                   <li><a href="#">Our Partners</a></li>
               </ul>
           </div>
+          -->
         </div>
 
         <div class="row">
