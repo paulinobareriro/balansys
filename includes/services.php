@@ -78,21 +78,21 @@
                   <span class="line-height-0 flaticon-planning display-4 mr-4 text-primary"></span>
                   <div>
                     <h4 class="m-0 h5 text-white">planejamento</h4>
-                    <p class="text-white">Lorem ipsum dolor sit amet.</p>
+                    <p class="text-white">Tudo que você precisa para o seu negócio.</p>
                   </div>
                 </div>
                 <div class="col-lg-12 d-flex align-items-center mb-4">
                   <span class="line-height-0 flaticon-compass display-4 mr-4 text-primary"></span>
                   <div>
                     <h4 class="m-0 h5 text-white">Design Moderno</h4>
-                    <p class="text-white">Lorem ipsum dolor sit amet.</p>
+                    <p class="text-white">Organização, Praticidade e Qualidade.</p>
                   </div>
                 </div>
                 <div class="col-lg-12 d-flex align-items-center mb-4">
                   <span class="line-height-0 flaticon-oil-platform display-4 mr-4 text-primary"></span>
                   <div>
                     <h4 class="m-0 h5 text-white">Implementação da solução</h4>
-                    <p class="text-white">Lorem ipsum dolor sit amet.</p>
+                    <p class="text-white">As nossas soluções são desenhadas à medida das suas necessidades.</p>
                   </div>
                 </div>
                 
