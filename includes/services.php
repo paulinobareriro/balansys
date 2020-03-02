@@ -16,7 +16,7 @@
               <div class="service-1-content">
                 <h3 class="service-heading"> Nossa Equipe Profissional</h3>
                 <p>Profissionais, qualificados, dinâmicos e apaixonados 
-                   pelo que fazem</p>
+                  <br> pelo que fazem</p>
               </div>
             </div>
           </div>
