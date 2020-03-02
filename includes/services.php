@@ -2,7 +2,7 @@
       <div class="container">
         <div class="row mb-5 justify-content-center text-center">
           <div class="col-lg-5">
-              <h3 class="section-subtitle">O QUE NÓS FAZEMOS</h3>
+              <h3 class="section-subtitle">O QUE FAZEMOS</h3>
               <h2 class="section-title mb-4 text-black">Somos Especializados em <strong>Soluções de Balança.</strong> Amamos o Que Fazemos.</h2>
           </div>
         </div>
