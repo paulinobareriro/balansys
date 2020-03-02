@@ -195,7 +195,7 @@ if(isset($_POST['submit'])){
                   </h2>
                 </a>
               </div>
-              <img src="images/analiticas.jpg" alt="Image" class="img-fluid">
+              <img src="images/bal_laboratorio.jpg" alt="Image" class="img-fluid">
             </div>
             <div class="project-item">
               <div class="project-item-contents">
