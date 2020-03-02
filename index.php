@@ -93,6 +93,17 @@ if(isset($_POST['submit'])){
     </div>
     
     <div class="hero-slide owl-carousel site-blocks-cover">
+      <div class="intro-section" style="background-image: url('images/banner_2".jpg');">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
+              <h1>
+                Soluções em Diversas  <strong>Indústrias</strong></h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    <div class="hero-slide owl-carousel site-blocks-cover">
       <div class="intro-section" style="background-image: url('images/banner.jpg');">
         <div class="container">
           <div class="row align-items-center">
@@ -189,9 +200,9 @@ if(isset($_POST['submit'])){
             <div class="project-item">
               <div class="project-item-contents">
                 <a href="#">
-                  <span class="project-item-category">Factory</span>
+                  <span class="project-item-category"></span>
                   <h2 class="project-item-title">
-                    Building Refinery 
+                    Laboratório
                   </h2>
                 </a>
               </div>
@@ -200,7 +211,7 @@ if(isset($_POST['submit'])){
             <div class="project-item">
               <div class="project-item-contents">
                 <a href="#">
-                  <span class="project-item-category">Factory</span>
+                  <span class="project-item-category"></span>
                   <h2 class="project-item-title">
                     Building Refinery 
                   </h2>
@@ -211,9 +222,9 @@ if(isset($_POST['submit'])){
             <div class="project-item">
               <div class="project-item-contents">
                 <a href="#">
-                  <span class="project-item-category">Factory</span>
+                  <span class="project-item-category"></span>
                   <h2 class="project-item-title">
-                    Building Refinery 
+                      Aviação 
                   </h2>
                 </a>
               </div>
@@ -222,7 +233,7 @@ if(isset($_POST['submit'])){
             <div class="project-item">
               <div class="project-item-contents">
                 <a href="#">
-                  <span class="project-item-category">Factory</span>
+                  <span class="project-item-category"></span>
                   <h2 class="project-item-title">
                     Building Refinery 
                   </h2>
