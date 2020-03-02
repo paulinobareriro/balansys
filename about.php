@@ -134,7 +134,7 @@
                   </div>
                 </figure>
                 <div class="person-contents">
-                  <h3>Luis Cabrales</h3>
+                  <h3>Luis Santos Cabral Araujo</h3>
                   <span class="position"></span>
                 </div>
               </div>
