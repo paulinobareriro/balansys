@@ -195,7 +195,7 @@ if(isset($_POST['submit'])){
                   </h2>
                 </a>
               </div>
-              <img src="images/works_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/analiticas.jpg" alt="Image" class="img-fluid">
             </div>
             <div class="project-item">
               <div class="project-item-contents">
@@ -217,7 +217,7 @@ if(isset($_POST['submit'])){
                   </h2>
                 </a>
               </div>
-              <img src="images/works_3.jpg" alt="Image" class="img-fluid">
+              <img src="images/bal_aviacion.jpg" alt="Image" class="img-fluid">
             </div>
             <div class="project-item">
               <div class="project-item-contents">
@@ -228,7 +228,7 @@ if(isset($_POST['submit'])){
                   </h2>
                 </a>
               </div>
-              <img src="images/works_4.jpg" alt="Image" class="img-fluid">
+              <img src="images/bal_comercial.jpg" alt="Image" class="img-fluid">
             </div>
 
 
