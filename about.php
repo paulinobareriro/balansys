@@ -194,8 +194,8 @@
                 <span class="flaticon-engineer"></span>
               </div>
               <div class="service-1-content">
-                <h3 class="service-heading"> “PROFISSIONAIS, QUALIFICADOS, DINÂMICOS E APAIXONADOS PELO QUE FAZEM.” </h3>
-                <p>Gravida sodales condimentum pellen tesq accumsan orci quam sagittis sapie</p>
+                <h3 class="service-heading"> Nossa Equipe Profissional</h3>
+                <p>Profissionais, Qualificados, Dinâmicos E Apaixonados Pelo Que Fazem.</p>
               </div>
             </div>
           </div>
