@@ -102,7 +102,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category">Factory</span>
+                            <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                                 Balanças Comerciais
                             </h2>
@@ -115,7 +115,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category">Factory</span>
+                            <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                                Balanças para pesagem de animais
                             </h2>
@@ -128,7 +128,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category">Factory</span>
+                            <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                                 Plataformas
                             </h2>
@@ -142,7 +142,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category">Factory</span>
+                            <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                               Pesagem especializada na indústria da aviação
                             </h2>
@@ -155,7 +155,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category">Factory</span>
+                            <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                                 Pesagem especializada na indústria de alimentos
                             </h2>
@@ -168,7 +168,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category">Factory</span>
+                            <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                               Verificadores de peso
                             </h2>
@@ -181,7 +181,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category">Factory</span>
+                            <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                                Laboratorio
                             </h2>
@@ -194,7 +194,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category">Factory</span>
+                            <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                               Pesa Camiões 
                             </h2>
