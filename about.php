@@ -182,50 +182,7 @@
       <?php include 'includes/services.php'; ?>
     <!--End Serviços  -->
 
-    <div class="site-section pb-0">
-      <div class="block-2 pb-0 mb-0">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6 mb-4 mb-lg-0">
-              <img src="images/about_1.jpg" alt="Image " class="img-fluid img-overlap">
-            </div>
-            <div class="col-lg-5 ml-auto">
-              <h3 class="section-subtitle">PORQUE ESCOLHER-NOS</h3>
-              <h2 class="section-title mb-4">Experiência em <strong>Soluções de Controlo de Pesagem</strong></h2>
-              <p>Com nosso conhecimento e experiência na indústria de pesagem e nosso portfólio de soluções, nós trabalhamos de perto com você para entender completamente o seu negócio, sua estratégia e suas limitações, a fim de criar o sistema ideal para você...</p>
-
-              <div class="row my-5">
-                <div class="col-lg-12 d-flex align-items-center">
-                  <span class="line-height-0 flaticon-planning display-4 mr-4 text-primary"></span>
-                  <div>
-                    <h4 class="m-0 h5 text-white">planejamento</h4>
-                    <p class="text-white">Lorem ipsum dolor sit amet.</p>
-                  </div>
-                </div>
-                <div class="col-lg-12 d-flex align-items-center mb-4">
-                  <span class="line-height-0 flaticon-compass display-4 mr-4 text-primary"></span>
-                  <div>
-                    <h4 class="m-0 h5 text-white">Design Moderno</h4>
-                    <p class="text-white">Lorem ipsum dolor sit amet.</p>
-                  </div>
-                </div>
-                <div class="col-lg-12 d-flex align-items-center mb-4">
-                  <span class="line-height-0 flaticon-oil-platform display-4 mr-4 text-primary"></span>
-                  <div>
-                    <h4 class="m-0 h5 text-white">Implementação da solução</h4>
-                    <p class="text-white">Lorem ipsum dolor sit amet.</p>
-                  </div>
-                </div>
-                
-              </div>
-
-              
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- END block-2 -->
+  
 
 
     
