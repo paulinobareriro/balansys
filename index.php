@@ -282,7 +282,7 @@ if(isset($_POST['submit'])){
             <p><a href="#">Learn More</a></p>
           </div>
           <div class="col-lg-3">
-            <h3 class="footer-heading"><span>Our Company</span></h3>
+            <h3 class="footer-heading"><span>Nossa Empresa</span></h3>
             <ul class="list-unstyled">
                 <li><a href="#">Sobre Nós</a></li>
                 <!--<li><a href="#">News</a></li> -->
