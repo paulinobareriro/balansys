@@ -269,9 +269,9 @@ if(isset($_POST['submit'])){
 
    
 
-    <!--Begin Serviços-->
-    <?php include 'includes/footer.php'; ?>
-    <!--End Serviços  -->
+    <!--Begin footer-->
+      <?php include 'includes/footer.php'; ?>
+    <!--End footer  -->
 
     
 
