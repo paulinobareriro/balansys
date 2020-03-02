@@ -108,6 +108,7 @@
           <div class="row">
             <div class="col-lg-3 col-md-6 mb-lg-0">
               <div class="person">
+                <!--
                 <figure>
                   <img src="images/person_2.jpg" alt="Image" class="img-fluid">
                   <div class="social">
@@ -116,6 +117,7 @@
                     <a href="#"><span class="icon-linkedin"></span></a>
                   </div>
                 </figure>
+                -->
                 <div class="person-contents">
                   <h3>Manuel Gonçalves</h3>
                   <span class="position">CEO</span>
@@ -125,6 +127,7 @@
   
             <div class="col-lg-3 col-md-6 mb-lg-0">
               <div class="person">
+                <!--
                 <figure>
                   <img src="images/person_1.jpg" alt="Image" class="img-fluid">
                   <div class="social">
@@ -133,6 +136,7 @@
                     <a href="#"><span class="icon-linkedin"></span></a>
                   </div>
                 </figure>
+                -->
                 <div class="person-contents">
                   <h3>Luis Santos Cabral Araujo</h3>
                   <span class="position"></span>
@@ -142,6 +146,7 @@
   
             <div class="col-lg-3 col-md-6 mb-lg-0">
               <div class="person">
+                <!--
                 <figure>
                   <img src="images/person_3.jpg" alt="Image" class="img-fluid">
                   <div class="social">
@@ -150,6 +155,7 @@
                     <a href="#"><span class="icon-linkedin"></span></a>
                   </div>
                 </figure>
+                -->
                 <div class="person-contents">
                   <h3>Alexis Infante</h3>
                   <span class="position"></span>
@@ -159,6 +165,7 @@
   
             <div class="col-lg-3 col-md-6 mb-lg-0">
               <div class="person">
+                 <!-- 
                 <figure>
                   <img src="images/person_4.jpg" alt="Image" class="img-fluid">
                   <div class="social">
@@ -167,6 +174,7 @@
                     <a href="#"><span class="icon-linkedin"></span></a>
                   </div>
                 </figure>
+                 -->
                 <div class="person-contents">
                   <h3>José Paulino do Barreiro</h3>
                   <span class="position"></span>
