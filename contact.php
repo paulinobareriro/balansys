@@ -138,19 +138,17 @@
             <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
               <span class="icon flaticon-mortarboard"></span>
               <h3>Nossa filosofia</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea? Dolore, amet reprehenderit.</p>
+              <p>A filosofia de trabalho que norteia nossa proposta desde o princípio, está baseada na compreensão, na doação, na integridade do nosso trabalho.</p>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
               <span class="icon flaticon-school-material"></span>
-              <h3>Princípios Acadêmicos</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea?
-                Dolore, amet reprehenderit.</p>
+              <h3>Paixão pelo trabalho</h3>
+              <p>O trabalho ocupa uma parte considerável de nossas vidas, então é fundamental que seja algo com o qual nos identificamos.</p>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
               <span class="icon flaticon-library"></span>
               <h3>Chave do sucesso</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea?
-                Dolore, amet reprehenderit.</p>
+              <p>Chaves para o Sucesso no mercado competitivo em que vivemos é de suma importância nos mantermos sempre focados em nosso crescimento.</p>
             </div>
           </div>
         </div>
