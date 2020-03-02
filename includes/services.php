@@ -27,7 +27,8 @@
               </div>
               <div class="service-1-content">
                 <h3 class="service-heading">Grandes ideias</h3>
-                <p>Gravida sodales condimentum pellen tesq accumsan orci quam sagittis sapie</p>
+                <p>“As ideias são as raízes da criação”
+                    Ernest Dimnet</p>
               </div>
             </div>
           </div>
