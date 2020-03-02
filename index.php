@@ -249,7 +249,7 @@ if(isset($_POST['submit'])){
                 <a href="#">
                   <span class="project-item-category"></span>
                   <h2 class="project-item-title">
-                    Building Refinery 
+                     Balanças comerciais / Industriais 
                   </h2>
                 </a>
               </div>
@@ -288,8 +288,10 @@ if(isset($_POST['submit'])){
                 <!--<li><a href="#">News</a></li> -->
                 <li><a href="#">Nossos Serviços</a></li>
                 <li><a href="#"> Nossa Equipe Profissional</a></li>
+                <!--
                 <li><a href="#">Careers</a></li>
                 <li><a href="#">Projects</a></li>
+                -->
             </ul>
           </div>
           <div class="col-lg-3">
