@@ -168,7 +168,7 @@
                   </div>
                 </figure>
                 <div class="person-contents">
-                  <h3>José Paulino do Barreiro</h3>
+                  <h3>José Paulinodo Barreiro</h3>
                   <span class="position"></span>
                 </div>
               </div>
@@ -194,7 +194,7 @@
                 <span class="flaticon-engineer"></span>
               </div>
               <div class="service-1-content">
-                <h3 class="service-heading"> Nossa Equipe Profissional</h3>
+                <h3 class="service-heading"> “PROFISSIONAIS, QUALIFICADOS, DINÂMICOS E APAIXONADOS PELO QUE FAZEM.” </h3>
                 <p>Gravida sodales condimentum pellen tesq accumsan orci quam sagittis sapie</p>
               </div>
             </div>
