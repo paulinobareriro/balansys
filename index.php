@@ -181,7 +181,7 @@ if(isset($_POST['submit'])){
         
         <div class="mb-5">
           <h3 class="section-subtitle">Áreas de Atuação</h3>
-          <h2 class="section-title mb-4">Explore nossos <strong>Projetos Recentes</strong></h2>
+          <h2 class="section-title mb-4">Explore nossas <strong>Áreas de Atuação</strong></h2>
         </div>
 
         <div class="projects-carousel-wrap">
