@@ -273,9 +273,9 @@ if(isset($_POST['submit'])){
 
     
 
-    <!--Begin footer-->
+    <div class="footer">
       <?php include 'includes/footer.php'; ?>
-    <!--End foooter  -->
+    </div>
     
 
   </div>
