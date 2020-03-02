@@ -1,4 +1,6 @@
-<div class="container">
+
+    <div class="footer">
+      <div class="container">
         <div class="row">
           <div class="col-lg-3">
             <p class="mb-4"><img src="images/logo_balancys.png" alt="Image" class="img-fluid"></p>
@@ -48,3 +50,4 @@
           </div>
         </div>
       </div>
+    </div>
