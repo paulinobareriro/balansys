@@ -168,7 +168,7 @@
                   </div>
                 </figure>
                 <div class="person-contents">
-                  <h3>José do Barreiro</h3>
+                  <h3>José Paulino do Barreiro</h3>
                   <span class="position"></span>
                 </div>
               </div>
