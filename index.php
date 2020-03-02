@@ -227,7 +227,7 @@ if(isset($_POST['submit'])){
                 <a href="#">
                   <span class="project-item-category"></span>
                   <h2 class="project-item-title">
-                      Balanças Rodoviárias 
+                     Balanças Rodoviárias 
                   </h2>
                 </a>
               </div>
@@ -263,7 +263,12 @@ if(isset($_POST['submit'])){
       </div>
     </div>
 
-  
+    
+
+    
+
+   
+
     
 
     
