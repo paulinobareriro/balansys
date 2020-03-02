@@ -192,7 +192,7 @@
             <div class="col-lg-5 ml-auto">
               <h3 class="section-subtitle">PORQUE ESCOLHER-NOS</h3>
               <h2 class="section-title mb-4">Experiência em <strong>Soluções de Controlo de Pesagem</strong></h2>
-              <p>Reprehenderit, odio laboriosam? Blanditiis quae ullam quasi illum minima nostrum perspiciatis error consequatur sit nulla.</p>
+              <p>Com nosso conhecimento e experiência na indústria de pesagem e nosso portfólio de soluções, nós trabalhamos de perto com você para entender completamente o seu negócio, sua estratégia e suas limitações, a fim de criar o sistema ideal para você...</p>
 
               <div class="row my-5">
                 <div class="col-lg-12 d-flex align-items-center">
