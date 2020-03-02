@@ -95,7 +95,7 @@
     </div>
 
     
-
+    <!--
     <div class="site-section">
         <div class="container">
           <div class="row justify-content-center">
@@ -177,7 +177,7 @@
           </div>
         </div>
       </div>
-
+     -->
     <!--Begin Serviços-->
       <?php include 'includes/services.php'; ?>
     <!--End Serviços  -->
