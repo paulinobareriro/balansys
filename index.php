@@ -279,7 +279,9 @@ if(isset($_POST['submit'])){
           <div class="col-lg-3">
             <p class="mb-4"><img src="images/logo_balancys.png" alt="Image" class="img-fluid"></p>
             <p>Comercialização e serviço de equipamentos de pesagem programáveis e automação das melhores marcas, que atendem às necessidades do cliente para melhorar sua produção.</p>  
+            <!--
             <p><a href="#">Learn More</a></p>
+            -->
           </div>
           <div class="col-lg-3">
             <h3 class="footer-heading"><span>Nossa Empresa</span></h3>
