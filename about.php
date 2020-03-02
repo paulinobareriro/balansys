@@ -194,20 +194,25 @@
         <div class="row">
           <div class="col-lg-3">
             <p class="mb-4"><img src="images/logo_balancys.png" alt="Image" class="img-fluid"></p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nemo minima qui dolor, iusto iure.</p>  
+            <p>A <strong>Balansys</strong> projeta, constrói e comercializa dispositivos e soluções integradas de pesagem, baseadas nas mais recentes tecnologias, e adaptadas às necessidades específicas de cada área de atividade.</p>  
+            <!--
             <p><a href="#">Learn More</a></p>
+            -->
           </div>
           <div class="col-lg-3">
-            <h3 class="footer-heading"><span>Our Company</span></h3>
+            <h3 class="footer-heading"><span>Nossa Empresa</span></h3>
             <ul class="list-unstyled">
                 <li><a href="#">Sobre Nós</a></li>
-               <!-- <li><a href="#">News</a></li> -->
+                <!--<li><a href="#">News</a></li> -->
                 <li><a href="#">Nossos Serviços</a></li>
-                <li><a href="#"> Nossa Equipe Profissional</a></li>
+                <li><a href="#">Nossa Equipe Profissional</a></li>
+                <!--
                 <li><a href="#">Careers</a></li>
                 <li><a href="#">Projects</a></li>
+                -->
             </ul>
           </div>
+          <!--
           <div class="col-lg-3">
               <h3 class="footer-heading"><span>Nossos Serviços</span></h3>
               <ul class="list-unstyled">
@@ -216,6 +221,8 @@
                   <li><a href="#">Remodeling</a></li>
               </ul>
           </div>
+          -->
+          <!--
           <div class="col-lg-3">
               <h3 class="footer-heading"><span>Contact</span></h3>
               <ul class="list-unstyled">
@@ -226,6 +233,7 @@
                   <li><a href="#">Our Partners</a></li>
               </ul>
           </div>
+          -->
         </div>
 
         <div class="row">
