@@ -41,7 +41,7 @@
               </div>
               <div class="service-1-content">
                 <h3 class="service-heading">Projetos de qualidade</h3>
-                <p>Qualidade em gestão de projetos é fundamental, pois a partir dela têm-se coordenadas para excelência nos resultados e satisfação do client</p>
+                <p>Qualidade em gestão de projetos é fundamental, pois a partir dela têm-se coordenadas para excelência nos resultados e satisfação do cliente</p>
               </div>
             </div>
           </div>
