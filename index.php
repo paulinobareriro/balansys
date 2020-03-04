@@ -116,7 +116,7 @@ if(isset($_POST['submit'])){
           </div>
         </div>
       </div>
-
+<!--
       <div class="intro-section" style="background-image: url('images/banner_4.jpg');">
         <div class="container">
           <div class="row align-items-center">
@@ -127,7 +127,7 @@ if(isset($_POST['submit'])){
           </div>
         </div>
       </div>
-
+-->
 
 
       <div class="intro-section" style="background-image: url('images/banner.jpg');">
