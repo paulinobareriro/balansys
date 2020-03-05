@@ -6,13 +6,14 @@ if(isset($_POST['submit'])){
     $subject = $_POST['subject'];
     $message = $_POST['message'];
     
-
+    $headers[] = 'MIME-Version: 1.0';
+    $headers[] = 'Content-type: text/html; charset=iso-8859-1';
     $headers[] = "To: $mailto";
     $headers[] = "From: $from";
   
 
     // Mail it
-    mail($mailto,$subject,$message,$headers);
+    mail($mailto,$subject,$messageimplode("\r\n", $headers));
 
     #mail($to, $subject, $message, implode("\r\n", $heade
 
