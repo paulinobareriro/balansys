@@ -7,9 +7,10 @@ if(isset($_POST['submit'])){
     $message = $_POST['message'];
     $headers = "From:" . $from;
 
+    $headers = implode ( "\n",array ( "From: $from", "Reply-To: $mailto", "Subject: $subject","Return-Path:  $from","MIME-Version: 1.0","X-Priority: 3","Content-Type: text/html; charset=UTF-8" ) );
     mail($mailto,$subject,$message,$headers);
 
-    
+   
     echo "Correio enviado. Obrigado " . $first_name . ", entraremos em contato em breve.";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
     }
