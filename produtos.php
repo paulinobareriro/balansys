@@ -104,7 +104,7 @@
                             <a href="project-single.html">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
-                                Balanças Comerciais
+                               Células de carga, dispositivos de enorme versatilidade no campo da pesagem.
                             </h2>
                             </a>
                         </div>
