@@ -108,7 +108,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/bal_comercial.jpg" alt="Image" class="img-fluid">
+                        <img src="images/cedldas.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
