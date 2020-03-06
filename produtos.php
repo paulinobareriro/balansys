@@ -104,7 +104,7 @@
                             <a href="project-single.html">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
-                               Células de carga digitais
+                               Células de carga digitais.
                             </h2>
                             </a>
                         </div>
