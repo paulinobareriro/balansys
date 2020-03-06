@@ -124,18 +124,17 @@ if(isset($_POST['submit'])){
           </div>
         </div>
       </div>
-<!--
+
       <div class="intro-section" style="background-image: url('images/banner_4.jpg');">
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
               <span class="d-block"></span>
-              <h1>Soluções de vanguarda para otimização industrial</h1>
+              <h1>Soluções de pesagem versáteis e prontas para uso (Balanças portáteis)</h1>
             </div>
           </div>
         </div>
       </div>
--->
 
 
       <div class="intro-section" style="background-image: url('images/banner.jpg');">
