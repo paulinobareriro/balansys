@@ -13,7 +13,7 @@ if(isset($_POST['submit'])){
   
 
     // Mail it
-    mail($mailto,$subject,$messageimplode("\r\n", $headers));
+    mail($mailto,$subject,$message,implode("\r\n", $headers));
 
     #mail($to, $subject, $message, implode("\r\n", $heade
 
