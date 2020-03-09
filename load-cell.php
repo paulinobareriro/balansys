@@ -121,7 +121,7 @@
                         Precisão garantida ao longo do tempo: Evite a incerteza diária de saber como a balança do camião estará pesando, mesmo nas condições de trabalho mais adversas.
                     </p>
                     <p>
-                        Confiabilidade total, elimina as causas de falhas frequentes nas balanças de camiões: não utiliza caixas de derivação, todos os ajustes são feitos a partir do indicador de peso.       
+                        Confiabilidade total, elimina as causas de falhas frequentes nas balanças de camiões: com/sem caixas de derivação, todos os ajustes são feitos a partir do indicador de peso.       
                     </p>
                     <p>
                         Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na tela, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador.
@@ -136,7 +136,7 @@
                         Monitoramento on-line de temperatura, tensão, linearidade, instabilidade, zero e sensibilidade em cada célula de carga.
                     </p>
                     <p>
-                        Conexões seguras com controle total do indicador: rede e indicador de célula, sem terminais ou caixa de derivação.
+                        Conexões seguras com controle total do indicador: rede e indicador de célula, com/sem terminais ou caixa de derivação.
                     </p>
                     <p>
                         Proteção contra raios verificada por testes independentes, demonstrando sua resistência a um pico de 80.000 amperes.
