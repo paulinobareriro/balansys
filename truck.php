@@ -112,44 +112,12 @@
                 <div class="col-md-12 ml-auto text-black"> 
                     <h2 class="text-black mb-4">Vantagens e benefícios</h2>
                     <p>
-                        Elimina os custos de manutenção.
+                        A optimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua industria.
+                        As perdas de tempo a acertar as cargas são custos que só no passado eram aceites.
+                        Com uma pesagem rápida e precisa, é possível aumentar a produção expedida diariamente.
+                        Saiba como pode utilizar uma balança de pessagem de camiões para ajudar a gerir a sua actividade.
                     </p>
-                    <p>
-                        Instalação fácil: Qualquer tipo de balança de camião ou vagão é instalada de maneira rápida e fácil.
-                    </p>
-                    <p>
-                        Precisão garantida ao longo do tempo: Evite a incerteza diária de saber como a balança do camião estará pesando, mesmo nas condições de trabalho mais adversas.
-                    </p>
-                    <p>
-                        Confiabilidade total, elimina as causas de falhas freqüentes nas balanças de caminhões: não utiliza caixas de derivação, todos os ajustes são feitos a partir do indicador de peso.       
-                    </p>
-                    <p>
-                        Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na tela, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador.
-                    </p> 
-                    <p>
-                        Facilidade e velocidade de reparo, praticamente eliminam o tempo de inatividade devido a quebra ou falha. As células de carga, os cabos ou o indicador de peso são substituídos sem recalibrar a balança.
-                    </p>
-                    <p>
-                        Rastreabilidade + segurança: registro interno programável, inviolável, pesado e eventos de balanceamento.
-                    </p>
-                    <p>
-                        Monitoramento on-line de temperatura, tensão, linearidade, instabilidade, zero e sensibilidade em cada célula de carga.
-                    </p>
-                    <p>
-                        Conexões seguras com controle total do indicador: rede e indicador de célula, sem terminais ou caixa de derivação.
-                    </p>
-                    <p>
-                        Proteção contra raios verificada por testes independentes, demonstrando sua resistência a um pico de 80.000 amperes.
-                    </p>
-                    <p>
-                        Encapsulamento da célula de carga em aço inoxidável com vedação hermética IP68 + IP69k, e a conexão através do conector com vedação vidro-metal que garante a estanqueidade. A umidade não afeta a saída de dados.
-                    </p>
-                    <p>
-                        Cabos de aço inoxidável de malha dupla. Evita danos causados ​​por roedores e evita radiofrequência ou interferência eletromagnética.
-                    </p>
-                    <p>
-                        Serviço pós-venda profissional, com pessoal treinado e infraestrutura adequada às suas necessidades.
-                    </p> 
+                     
                    <!--
                   
                    <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
