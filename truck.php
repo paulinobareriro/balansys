@@ -110,7 +110,7 @@
                 </div>
                 -->
                 <div class="col-md-12 ml-auto text-black"> 
-                    <h2 class="text-black mb-4">Vantagens e benefícios</h2>
+                    <h2 class="text-black mb-4">Gestão de transporte de cargas</h2>
                     <p>
                         A optimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua industria.
                         As perdas de tempo a acertar as cargas são custos que só no passado eram aceites.
