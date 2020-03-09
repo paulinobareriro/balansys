@@ -193,7 +193,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="project-single.html">
+                            <a href="trucks.php">
                             <span class="project-item-category">Descrição do produto</span>
                             <h2 class="project-item-title">
                               Pesa Camiões 
