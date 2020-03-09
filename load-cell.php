@@ -137,6 +137,9 @@
                     <p>
                         Monitoramento on-line de temperatura, tensão, linearidade, instabilidade, zero e sensibilidade em cada célula de carga.
                     </p>
+                    <p>
+                        Conexões seguras com controle total do indicador: rede e indicador de célula, sem terminais ou caixa de derivação.
+                    </p>
                       
                    <!--
                   
