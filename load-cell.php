@@ -104,9 +104,11 @@
     <div class="site-section">
         <div class="container">
             <div class="row">
+                <!--
                 <div class="col-md-7 mb-4">
                     <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
                 </div>
+                -->
                 <div class="col-md-4 ml-auto">
                     <h2 class="text-black mb-4">Vantagens e benefícios</h2>
                     <p>Elimina os custos de manutenção.</p>
