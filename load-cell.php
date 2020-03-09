@@ -109,15 +109,29 @@
                     <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
                 </div>
                 -->
-                <div class="col-md-4 ml-auto">
+                <div class="col-md-7 ml-auto"> 
                     <h2 class="text-black mb-4">Vantagens e benefícios</h2>
-                    <p>Elimina os custos de manutenção.</p>
-                    <p>Instalação fácil.</p>
-                    <p>Precisão garantida ao longo do tempo.</p>
-                    <p>Tranquilidade e segurança, mesmo nas condições de trabalho mais adversas.</p>
-                    <p>Confiabilidade total, elimina as causas de falhas freqüentes nas balanças de caminhões</p> 
                     <p>
-Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na tela, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador</p> 
+                        Elimina os custos de manutenção.
+                    </p>
+                    <p>
+                        Instalação fácil.
+                    </p>
+                    <p>
+                        Precisão garantida ao longo do tempo.
+                    </p>
+                    <p>
+                        Tranquilidade e segurança, mesmo nas condições de trabalho mais adversas.
+                    </p>
+                    <p>
+                        Confiabilidade total, elimina as causas de falhas freqüentes nas balanças de caminhões</p> 
+                    <p>
+                        Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na tela, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador
+                    </p> 
+                    <p>
+                        Facilidade e velocidade de reparo, praticamente eliminam o tempo de inatividade devido a quebra ou falha. As células de carga, os cabos ou o indicador de peso são substituídos sem recalibrar a balança
+                    </p>
+                      
                    <!--
                   
                    <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
