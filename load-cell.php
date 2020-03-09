@@ -121,18 +121,16 @@
                         Precisão garantida ao longo do tempo: Evite a incerteza diária de saber como a balança do camião estará pesando, mesmo nas condições de trabalho mais adversas.
                     </p>
                     <p>
-                        Tranquilidade e segurança, mesmo nas condições de trabalho mais adversas.
+                        Confiabilidade total, elimina as causas de falhas freqüentes nas balanças de caminhões: não utiliza caixas de derivação nem caixas de derivação, todos os ajustes são feitos a partir do indicador de peso.       
                     </p>
                     <p>
-                        Confiabilidade total, elimina as causas de falhas freqüentes nas balanças de caminhões</p> 
-                    <p>
-                        Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na tela, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador
+                        Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na tela, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador.
                     </p> 
                     <p>
-                        Facilidade e velocidade de reparo, praticamente eliminam o tempo de inatividade devido a quebra ou falha. As células de carga, os cabos ou o indicador de peso são substituídos sem recalibrar a balança
+                        Facilidade e velocidade de reparo, praticamente eliminam o tempo de inatividade devido a quebra ou falha. As células de carga, os cabos ou o indicador de peso são substituídos sem recalibrar a balança.
                     </p>
                     <p>
-                        Trazabilidad + seguridad: registro interno programable, inviolable, de pesadas y eventos en la balanza.
+                        Rastreabilidade + segurança: registro interno programável, inviolável, pesado e eventos de balanceamento.
                     </p>
                     <p>
                         Monitoramento on-line de temperatura, tensão, linearidade, instabilidade, zero e sensibilidade em cada célula de carga.
@@ -169,20 +167,25 @@
         <div class="row">
           <div class="col-lg-3">
             <p class="mb-4"><img src="images/logo_balancys.png" alt="Image" class="img-fluid"></p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nemo minima qui dolor, iusto iure.</p>  
+            <p>A <strong>Balansys</strong> projeta, constrói e comercializa dispositivos e soluções integradas de pesagem, baseadas nas mais recentes tecnologias, e adaptadas às necessidades específicas de cada área de atividade.</p>  
+            <!--
             <p><a href="#">Learn More</a></p>
+            -->
           </div>
           <div class="col-lg-3">
             <h3 class="footer-heading"><span>Nossa Empresa</span></h3>
             <ul class="list-unstyled">
-                <li><a href="#">About</a></li>
-                <li><a href="#">News</a></li>
+                <li><a href="#">Sobre Nós</a></li>
+                <!--<li><a href="#">News</a></li> -->
                 <li><a href="#">Nossos Serviços</a></li>
-                <li><a href="#"> Nossa Equipe Profissional</a></li>
+                <li><a href="#">Nossa Equipe Profissional</a></li>
+                <!--
                 <li><a href="#">Careers</a></li>
                 <li><a href="#">Projects</a></li>
+                -->
             </ul>
           </div>
+          <!--
           <div class="col-lg-3">
               <h3 class="footer-heading"><span>Nossos Serviços</span></h3>
               <ul class="list-unstyled">
@@ -191,6 +194,8 @@
                   <li><a href="#">Remodeling</a></li>
               </ul>
           </div>
+          -->
+          <!--
           <div class="col-lg-3">
               <h3 class="footer-heading"><span>Contact</span></h3>
               <ul class="list-unstyled">
@@ -201,6 +206,7 @@
                   <li><a href="#">Our Partners</a></li>
               </ul>
           </div>
+          -->
         </div>
 
         <div class="row">
