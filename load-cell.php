@@ -131,6 +131,12 @@
                     <p>
                         Facilidade e velocidade de reparo, praticamente eliminam o tempo de inatividade devido a quebra ou falha. As células de carga, os cabos ou o indicador de peso são substituídos sem recalibrar a balança
                     </p>
+                    <p>
+                        Trazabilidad + seguridad: registro interno programable, inviolable, de pesadas y eventos en la balanza.
+                    </p>
+                    <p>
+                        Monitoreo en línea de temperatura, voltaje, linealidad, inestabilidad, cero y sensibilidad en cada celda de carga.
+                    </p>
                       
                    <!--
                   
