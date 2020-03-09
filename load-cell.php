@@ -112,7 +112,7 @@
                     <p>Elimina os custos de manutenção.</p>
                     <p>Instalação fácil.</p>
                     <p>Precisão garantida ao longo do tempo.</p>
-                    
+                    <p>Tranquilidade e segurança: evite a incerteza diária de saber como a balança do caminhão pesará mesmo nas condições de trabalho mais adversas.</p>
                    <!--
                   
                    <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
