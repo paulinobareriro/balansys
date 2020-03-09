@@ -79,7 +79,7 @@
       <!--Begin NavBar-->
         <?php include 'includes/navbar.php'; ?>
       <!--End NavBar  -->
-
+      
     </div>
     
 
@@ -89,9 +89,9 @@
       <div class="container">
         <div class="row align-items-center text-center border">
           <div class="col-lg-12 mt-5" data-aos="fade-up">
-            <h1>Project Single Post</h1>
+            <h1>Células de carga digitais</h1>
             <p class="text-white text-center">
-              <a href="index.php">Home</a>
+              <a href="index.html">Home</a>
               <span class="mx-2">/</span>
               <span>Project Single</span>
             </p>
