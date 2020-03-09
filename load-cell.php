@@ -121,7 +121,7 @@
                         Precisão garantida ao longo do tempo: Evite a incerteza diária de saber como a balança do camião estará pesando, mesmo nas condições de trabalho mais adversas.
                     </p>
                     <p>
-                        Confiabilidade total, elimina as causas de falhas freqüentes nas balanças de caminhões: não utiliza caixas de derivação, todos os ajustes são feitos a partir do indicador de peso.       
+                        Confiabilidade total, elimina as causas de falhas freqüentes nas balanças de camiões: não utiliza caixas de derivação, todos os ajustes são feitos a partir do indicador de peso.       
                     </p>
                     <p>
                         Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na tela, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador.
