@@ -135,7 +135,7 @@
                         Trazabilidad + seguridad: registro interno programable, inviolable, de pesadas y eventos en la balanza.
                     </p>
                     <p>
-                        Monitoreo en línea de temperatura, voltaje, linealidad, inestabilidad, cero y sensibilidad en cada celda de carga.
+                        Monitoramento on-line de temperatura, tensão, linearidade, instabilidade, zero e sensibilidade em cada célula de carga.
                     </p>
                       
                    <!--
