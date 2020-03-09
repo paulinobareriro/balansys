@@ -109,7 +109,7 @@
                     <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
                 </div>
                 -->
-                <div class="col-md-12 ml-auto"> 
+                <div class="col-md-12 ml-auto text-black"> 
                     <h2 class="text-black mb-4">Vantagens e benefícios</h2>
                     <p>
                         Elimina os custos de manutenção.
