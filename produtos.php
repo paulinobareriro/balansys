@@ -102,7 +102,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="load-cell.php">
-                            <span class="project-item-category">Descrição do produto</span>
+                            <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-title">
                                Células de carga digitais.
                             </h2>
@@ -115,7 +115,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="portatil.php">
-                            <span class="project-item-category">Descrição do produto</span>
+                            <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-title">
                                Balanças portateis
                             </h2>
@@ -194,7 +194,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="truck.php">
-                            <span class="project-item-category">Descrição do produto</span>
+                            <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-title">
                               Pesa Camiões 
                             </h2>
