@@ -93,7 +93,7 @@
             <p class="text-white text-center">
               <a href="produtos.php">Produtos</a>
               <span class="mx-2">/</span>
-              <span>Descrição do produto</span>
+              <span>Saiba Mais</span>
             </p>
           </div>
         </div>
