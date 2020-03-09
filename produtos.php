@@ -102,7 +102,7 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="project-single.html">
-                            <span class="project-item-category"></span>
+                            <span class="project-item-category">Descrição do produto</span>
                             <h2 class="project-item-title">
                                Células de carga digitais.
                             </h2>
