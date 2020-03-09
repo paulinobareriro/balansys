@@ -108,7 +108,9 @@ if(isset($_POST['submit'])){
           <div class="row align-items-center">
             <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
               <span class="d-block"></span>
-              <h1>Soluções de vanguarda para otimização industrial</h1>
+             
+                <h1>Soluções de vanguarda para otimização industrial</h1>
+             
             </div>
           </div>
         </div>
@@ -118,7 +120,9 @@ if(isset($_POST['submit'])){
           <div class="row align-items-center">
             <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
               <span class="d-block"></span>
-              <h1>Células de carga digitais, dispositivos de enorme versatilidade no campo da pesagem.</h1>
+              <a href="load-cell.php">
+                <h1>Células de carga digitais, dispositivos de enorme versatilidade no campo da pesagem.</h1>
+              </a>
             </div>
           </div>
         </div>
