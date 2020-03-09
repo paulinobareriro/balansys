@@ -114,6 +114,8 @@
                     <p>Precisão garantida ao longo do tempo.</p>
                     <p>Tranquilidade e segurança, mesmo nas condições de trabalho mais adversas.</p>
                     <p>Confiabilidade total, elimina as causas de falhas freqüentes nas balanças de caminhões</p> 
+                    <p>
+Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na tela, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador</p> 
                    <!--
                   
                    <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
