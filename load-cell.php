@@ -140,6 +140,9 @@
                     <p>
                         Conexões seguras com controle total do indicador: rede e indicador de célula, sem terminais ou caixa de derivação.
                     </p>
+                    <p>
+                        Proteção contra raios verificada por testes independentes, demonstrando sua resistência a um pico de 80.000 amperes.
+                    </p>
                       
                    <!--
                   
