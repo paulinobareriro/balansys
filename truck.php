@@ -112,10 +112,10 @@
                 <div class="col-md-12 ml-auto text-black"> 
                     <h2 class="text-black mb-4">Gestão de transporte de cargas</h2>
                     <p>
-                        A optimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua industria.
+                        A otimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua indústria.
                         As perdas de tempo a acertar as cargas são custos que só no passado eram aceites.
                         Com uma pesagem rápida e precisa, é possível aumentar a produção expedida diariamente.
-                        Saiba como pode utilizar uma balança de pessagem de camiões para ajudar a gerir a sua actividade.
+                        Saiba como pode utilizar uma balança de pesagem de camiões para ajudar a gerir a sua atividade.
                     </p>
                      
                    <!--
