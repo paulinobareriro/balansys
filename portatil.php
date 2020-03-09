@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--Begin Head-->
+
 <head>
-  <?php $page='produtos'; include 'includes/head.php'; ?>
+  <!--Begin Head-->
+  <head>
+    <?php $page='produtos'; include 'includes/head.php'; ?>
+  </head>
+  <!--End Head-->
 </head>
-<!--End Head-->
+
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
   <div class="site-wrap">
@@ -71,150 +75,61 @@
           </div>
         </div>
       </div>
+      
       <!--Begin NavBar-->
         <?php include 'includes/navbar.php'; ?>
       <!--End NavBar  -->
-
+      
     </div>
     
 
 
 
-    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/hero_1.jpg');">
+    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/trucks.jpg');">
       <div class="container">
         <div class="row align-items-center text-center border">
           <div class="col-lg-12 mt-5" data-aos="fade-up">
-            <h1>Produtos</h1>
+            <h1>Balanças portateis</h1>
             <p class="text-white text-center">
-              <a href="index.php">Início</a>
+              <a href="produtos.php">Produtos</a>
               <span class="mx-2">/</span>
-              <span>Produtos</span>
+              <span>Descrição do produto</span>
             </p>
           </div>
         </div>
       </div>
     </div>
 
+    
     <div class="site-section">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="load-cell.php">
-                            <span class="project-item-category">Descrição do produto</span>
-                            <h2 class="project-item-title">
-                               Células de carga digitais.
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/celdas.jpg" alt="Image" class="img-fluid">
-                    </div>
+                <!--
+                <div class="col-md-7 mb-4">
+                    <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
                 </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="project-single.html">
-                            <span class="project-item-category">Descrição do produto</span>
-                            <h2 class="project-item-title">
-                               Balanças portateis
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_portatil.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="project-single.html">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Plataformas
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/plataforma_ind.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="project-single.html">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Pesagem especializada na indústria da aviação
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_aviacion.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="project-single.html">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Pesagem especializada na indústria de alimentos
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_food.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="project-single.html">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Verificadores de peso
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/checker.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="project-single.html">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                               Laboratorio
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_laboratorio.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="truck.php">
-                            <span class="project-item-category">Descrição do produto</span>
-                            <h2 class="project-item-title">
-                              Pesa Camiões 
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_trucks.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-
-                
+                -->
+                <div class="col-md-12 ml-auto text-black"> 
+                    <h2 class="text-black mb-4">Gestão de transporte de cargas</h2>
+                    <p>
+                        A optimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua industria.
+                        As perdas de tempo a acertar as cargas são custos que só no passado eram aceites.
+                        Com uma pesagem rápida e precisa, é possível aumentar a produção expedida diariamente.
+                        Saiba como pode utilizar uma balança de pessagem de camiões para ajudar a gerir a sua actividade.
+                    </p>
+                     
+                   <!--
+                  
+                   <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
+                    -->
+                    <!--
+                      <p><a href="#" class="btn btn-primary rounded-0 py-3 px-5">Visit Site</a></p>
+                    -->
+               </div>
             </div>
         </div>
     </div>
     
-
-            
-            
-    
-
-
     <div class="footer">
       <div class="container">
         <div class="row">
@@ -282,9 +197,27 @@
 
 
   <!-- loader -->
-  <!-- Begin scripts -->
-   <?php include 'includes/scripts.php'; ?>
-  <!-- End scripts -->  
+  <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#ff5e15"/></svg></div>
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/jquery.mb.YTPlayer.min.js"></script>
+
+
+
+
+  <script src="js/main.js"></script>
 
 </body>
 
