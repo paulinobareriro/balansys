@@ -91,7 +91,7 @@
           <div class="col-lg-12 mt-5" data-aos="fade-up">
             <h1>Células de carga digitais</h1>
             <p class="text-white text-center">
-              <a href="productos.php">Produtos</a>
+              <a href="produtos.php">Produtos</a>
               <span class="mx-2">/</span>
               <span>Descrição do produto</span>
             </p>
