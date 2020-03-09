@@ -76,44 +76,10 @@
         </div>
       </div>
       
-
-
+      <!--Begin NavBar-->
+        <?php include 'includes/navbar.php'; ?>
+      <!--End NavBar  -->
       
-      <div class="site-navbar py-2 js-sticky-header site-navbar-target d-none pl-0 d-lg-block" role="banner">
-
-      <div class="container">
-        <div class="d-flex align-items-center">
-          
-          <div class="mr-auto">
-            <nav class="site-navigation position-relative text-right" role="navigation">
-              <ul class="site-menu main-menu js-clone-nav mr-auto d-none pl-0 d-lg-block">
-                <li>
-                  <a href="index.html" class="nav-link text-left">Home</a>
-                </li>
-                <li>
-                  <a href="about.html" class="nav-link text-left">About Us</a>
-                </li>
-                <li>
-                  <a href="works.html" class="nav-link text-left">Our Projects</a>
-                </li>
-                <li>
-                    <a href="testimonials.html" class="nav-link text-left">Testimonials</a>
-                </li>
-                <li class="active"><a href="blog.html" class="nav-link text-left">Blog</a></li>
-                <li>
-                    <a href="contact.html" class="nav-link text-left">Contact</a>
-                  </li>
-              </ul>                                                                                                                                                                                                                                                                                          </ul>
-            </nav>
-
-          </div>
-          
-         
-        </div>
-      </div>
-
-    </div>
-    
     </div>
     
 
