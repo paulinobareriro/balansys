@@ -79,7 +79,7 @@
       <!--Begin NavBar-->
         <?php include 'includes/navbar.php'; ?>
       <!--End NavBar  -->
-      
+
     </div>
     
 
@@ -91,7 +91,7 @@
           <div class="col-lg-12 mt-5" data-aos="fade-up">
             <h1>Project Single Post</h1>
             <p class="text-white text-center">
-              <a href="index.html">Home</a>
+              <a href="index.php">Home</a>
               <span class="mx-2">/</span>
               <span>Project Single</span>
             </p>
