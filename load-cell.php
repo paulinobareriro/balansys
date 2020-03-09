@@ -143,7 +143,9 @@
                     <p>
                         Proteção contra raios verificada por testes independentes, demonstrando sua resistência a um pico de 80.000 amperes.
                     </p>
-                      
+                    <p>
+                        Encapsulamento da célula de carga em aço inoxidável com vedação hermética IP68 + IP69k, e a conexão através do conector com vedação vidro-metal que garante a estanqueidade. A umidade não afeta a saída de dados.
+                    </p>
                    <!--
                   
                    <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
