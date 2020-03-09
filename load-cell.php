@@ -28,8 +28,8 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-6 col-lg-3">
-            <a href="index.html">
-              <img src="images/logo.png" alt="Image" class="img-fluid">
+            <a href="index.php">
+              <img src="images/logo_balancys.png" alt="Image" class="img-fluid">
             </a>
           </div>
           <div class="col-lg-3 d-none d-lg-block">
@@ -39,8 +39,8 @@
                 <span class="flaticon-placeholder text-primary"></span>
               </div>
               <div class="text">
-                <span class="h4 d-block">San Francisco</span>
-                <span class="caption-text">Mountain View, Fake st., CA</span>
+                <span class="h4 d-block">Av. Alameda Silva Rocha, 109, Aveiro</span>
+                <span class="caption-text"></span>
               </div>
             </div>
 
@@ -51,8 +51,8 @@
                 <span class="flaticon-call text-primary"></span>
               </div>
               <div class="text">
-                <span class="h4 d-block">000 209 392 312</span>
-                <span class="caption-text">Toll free</span>
+                <span class="h4 d-block">Ligue-Nos Agora</span>
+                <span class="caption-text">+351 234421282</span>
               </div>
             </div>
           </div>
@@ -64,7 +64,7 @@
               </div>
               <div class="text">
                 <span class="h4 d-block">geral@balansys.pt</span>
-                <span class="caption-text">Gournadi, 1230 Bariasl</span>
+                <span class="caption-text"></span>
               </div>
             </div>
           </div>
@@ -146,6 +146,12 @@
                     <p>
                         Encapsulamento da célula de carga em aço inoxidável com vedação hermética IP68 + IP69k, e a conexão através do conector com vedação vidro-metal que garante a estanqueidade. A umidade não afeta a saída de dados.
                     </p>
+                    <p>
+                        Cabos de aço inoxidável de malha dupla. Evita danos causados ​​por roedores e evita radiofrequência ou interferência eletromagnética.
+                    </p>
+                    <p>
+                        Serviço pós-venda profissional, com pessoal treinado e infraestrutura adequada às suas necessidades.
+                    </p> 
                    <!--
                   
                    <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
