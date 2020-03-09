@@ -110,7 +110,7 @@
                 </div>
                 -->
                 <div class="col-md-12 ml-auto text-black"> 
-                    <h2 class="text-black mb-4">Gestão de transporte de cargas</h2>
+                    <h2 class="text-black mb-4">Balanças Portáteis</h2>
                     <p>
                         As balanças portáteis foram projetadas para facilitar a mobilidade entre diferentes locais de pesagem.       
                     </p>
