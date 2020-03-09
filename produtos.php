@@ -200,7 +200,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/ .jpg" alt="Image" class="img-fluid">
+                        <img src="images/bal_trucks.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
