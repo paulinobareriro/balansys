@@ -85,7 +85,7 @@
 
 
 
-    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/trucks.jpg');">
+    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/portatil_lg.jpg');">
       <div class="container">
         <div class="row align-items-center text-center border">
           <div class="col-lg-12 mt-5" data-aos="fade-up">
@@ -112,10 +112,7 @@
                 <div class="col-md-12 ml-auto text-black"> 
                     <h2 class="text-black mb-4">Gestão de transporte de cargas</h2>
                     <p>
-                        A optimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua industria.
-                        As perdas de tempo a acertar as cargas são custos que só no passado eram aceites.
-                        Com uma pesagem rápida e precisa, é possível aumentar a produção expedida diariamente.
-                        Saiba como pode utilizar uma balança de pessagem de camiões para ajudar a gerir a sua actividade.
+                        As balanças portáteis foram projetadas para facilitar a mobilidade entre diferentes locais de pesagem.       
                     </p>
                      
                    <!--
