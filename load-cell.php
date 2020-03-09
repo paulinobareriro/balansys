@@ -108,9 +108,15 @@
                     <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
                 </div>
                 <div class="col-md-4 ml-auto">
-                    <h2 class="text-black mb-4">*Vantagens e benefícios</h2>
-                    <p>Elimina os custos de manutenção e a incerteza de saber como a balança de seu camião está pesando.</p>
-                    <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
+                    <h2 class="text-black mb-4">Vantagens e benefícios</h2>
+                    <p>Elimina os custos de manutenção.</p>
+                    <p>Instalação fácil.</p>
+                    <p>Precisão garantida ao longo do tempo.</p>
+                    
+                   <!--
+                  
+                   <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
+                    -->
                     <!--
                       <p><a href="#" class="btn btn-primary rounded-0 py-3 px-5">Visit Site</a></p>
                     -->
