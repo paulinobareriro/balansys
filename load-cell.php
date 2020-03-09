@@ -115,10 +115,10 @@
                         Elimina os custos de manutenção.
                     </p>
                     <p>
-                        Instalação fácil.
+                        Instalação fácil: Qualquer tipo de balança de camião ou vagão é instalada de maneira rápida e fácil.
                     </p>
                     <p>
-                        Precisão garantida ao longo do tempo.
+                        Precisão garantida ao longo do tempo: Evite a incerteza diária de saber como a balança do camião estará pesando, mesmo nas condições de trabalho mais adversas.
                     </p>
                     <p>
                         Tranquilidade e segurança, mesmo nas condições de trabalho mais adversas.
