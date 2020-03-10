@@ -1,19 +1,21 @@
 <?php 
 if(isset($_POST['submit'])){
 
-    require 'PHPMailer/Exception.php';
-    require 'PHPMailer/PHPMailer.php';
-    require 'PHPMailer/SMTP.php';
+    require 'PHPMailer/src/Exception.php';
+    require 'PHPMailer/src/PHPMailer.php';
+    require 'PHPMailer/rc/SMTP.php';
 
     $mail = new PHPMailer;
     // $mail->SMTPDebug = 4;     // Enable verbose debug output
     $mail->isSMTP();             // Set mailer to use SMTP
     $mail->Host = 'mail.balansys.com.pt';  // Specify main and backup SMTP server
-    $mail->SMTPAuth = true;          // Enable SMTP authentication
+    //$mail->SMTPAuth = true;          // Enable SMTP authentication
+    $mail->SMTPAuth = false;
+    $mail->SMTPSecure = false;
     $mailto = 'paulino.barreiro@balansys.com.pt'; // Balansys email address 
 		$mail->Username = $mailto;         // SMTP username
 		$mail->Password = 'hpux1020@';          // SMTP password
-		$mail->SMTPSecure = 'tls';       // Enable TLS encryption, `ssl` also accepted
+		//$mail->SMTPSecure = 'tls';       // Enable TLS encryption, `ssl` also accepted
 		$mail->Port = 465;               // TCP port to connect to
 
     
