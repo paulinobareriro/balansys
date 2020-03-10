@@ -1,4 +1,7 @@
 <?php 
+    require "PHPMailer/PHPMailer.php";  
+    require "PHPMailer/smtp.php";  
+
     function smtpmailer($to, $from, $from_name, $subject, $body)
     {
         $mail = new PHPMailer();
@@ -34,13 +37,13 @@
         }
     }
 
-    $to   = "paulino.barreiro@balansys.com.pt";
-    $from = "paulino.barreiro@balansys.com.pt";
-    $name = $_POST['name'];
-    $subj = $_POST['subject'];
-    $msg  = $_POST['message'];
+    //$to   = "paulino.barreiro@balansys.com.pt";
+    //$from = "paulino.barreiro@balansys.com.pt";
+    //$name = $_POST['name'];
+    //$subject= $_POST['subject'];
+    //$message=  $_POST['message'];
     
-    $error=smtpmailer($to,$from, $name ,$subj, $msg);
+    //$error=smtpmailer($to,$from, $name ,$subj, $msg);
 
     //$from = $_POST['email'];   // Sender email address 
     //$name = $_POST['name'];
