@@ -1,6 +1,6 @@
 <?php 
-    require "PHPMailer/PHPMailer.php";  
-    require "PHPMailer/smtp.php";  
+    require "PHPMailer/class.PHPMailer.php";  
+    require "PHPMailer/class.smtp.php";  
 
     function smtpmailer($to, $from, $from_name, $subject, $body)
     {
