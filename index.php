@@ -256,7 +256,7 @@ if(isset($_POST['submit'])){
                     <textarea name="message" class="form-control" id="" placeholder="Como podemos te ajudar*" cols="30" rows="7"></textarea>
                   </div>
                   <div class="col-md-6 align-self-end">
-                    <input type="submit" class="btn btn-primary btn-block btn-lg rounded-0" value="Enviar Mensagem">
+                    <input type="submit" name="submit" class="btn btn-primary btn-block btn-lg rounded-0" value="Enviar Mensagem">
                   </div>
                 </div>
                 
