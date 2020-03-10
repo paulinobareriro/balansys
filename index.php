@@ -1,36 +1,46 @@
 <?php 
-if(isset($_POST['submit'])){
+    function smtpmailer($to, $from, $from_name, $subject, $body)
+    {
+        $mail = new PHPMailer();
+        $mail->IsSMTP();
+        $mail->SMTPAuth = true; 
+ 
+        $mail->SMTPSecure = 'ENTER SMTP PROTOCOL'; 
+        $mail->Host = 'mail.balansys.com.pt';
+        $mail->Port = 465;
+        $mail->Username = "paulino.barreiro@balansys.com.pt";
+        $mail->Password = 'hpux1q020@';   
+   
+   //   $path = 'reseller.pdf';
+   //   $mail->AddAttachment($path);
+   
+        $mail->IsHTML(true);
+        $mail->From="paulino.barreiro@balansys.com.pt";
+        $mail->FromName="Balansys";
+        $mail->Sender=$from;
+        $mail->AddReplyTo($from, $from_name);
+        $mail->Subject = $subject;
+        $mail->Body = $body;
+        $mail->AddAddress($to);
+        if(!$mail->Send())
+        {
+            $error ="Please try Later, Error Occured while Processing...";
+            return $error; 
+        }
+        else 
+        {
+            $error = "Thanks You !! Your email is sent.";  
+            return $error;
+        }
+    }
 
-    require 'PHPMailer/PHPMailerAutoload.php';
-
-    $mail = new PHPMailer;
-    // $mail->SMTPDebug = 4;     // Enable verbose debug output
-    $mail->isSMTP();             // Set mailer to use SMTP
-    $mail->Host = 'mail.balansys.com.pt';  // Specify main and backup SMTP server
-    $mail->SMTPAuth = true;          // Enable SMTP authentication
-    $mailto = 'paulino.barreiro@balansys.com.pt'; // Balansys email address 
-		$mail->Username = $mailto;         // SMTP username
-		$mail->Password = 'hpux1020@';          // SMTP password
-		$mail->SMTPSecure = 'tls';       // Enable TLS encryption, `ssl` also accepted
-		$mail->Port = 465;               // TCP port to connect to
-
+    $to   = "paulino.barreiro@balansys.com.pt";
+    $from = "paulino.barreiro@balansys.com.pt";
+    $name = $_POST['name'];
+    $subj = $_POST['subject'];
+    $msg  = $_POST['message'];
     
-    $mail->setFrom($mailto, 'Balansys');
-    $mail->addAddress($_POST['email']);     // Add a recipient
-    
-    $mail->addReplyTo($mailto);
-
-    $mail->isHTML(true);                      // Set email format to HTML
-    $mail->Subject = $_POST['subject'];
-		$mail->Body    = '<div style="border:2px solid red;">This is the HTML message body <b>in bold!</b></div>';
-    $mail->AltBody = $_POST['message'];
-    
-    if(!$mail->send()) {
-      echo 'Message could not be sent.';
-      echo 'Mailer Error: ' . $mail->ErrorInfo;
-    } else {
-      echo 'Message has been sent';
-    } 
+    $error=smtpmailer($to,$from, $name ,$subj, $msg);
 
     //$from = $_POST['email'];   // Sender email address 
     //$name = $_POST['name'];
@@ -51,7 +61,7 @@ if(isset($_POST['submit'])){
     #$headers = implode ( "\n",array ( "From: $from", "Reply-To: $mailto", "Subject: $subject","Return-Path:  $from","MIME-Version: 1.0","X-Priority: 3","Content-Type: text/html; charset=UTF-8" ) );
     //echo "Correio enviado. Obrigado " . $first_name . ", entraremos em contato em breve.";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
-    }
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
