@@ -6,17 +6,17 @@ if(isset($_POST['submit'])){
     $mail = new PHPMailer;
     // $mail->SMTPDebug = 4;     // Enable verbose debug output
     $mail->isSMTP();             // Set mailer to use SMTP
-    $mail->Host = 'mail.balansys.com.pt';  // Specify main and backup SMTP server
+    $mail->Host = 'mail.balansys.pt';  // Specify main and backup SMTP server
     $mail->SMTPAuth = true;          // Enable SMTP authentication
     $mailto = 'paulino.barreiro@balansys.pt'; // Balansys email address 
-		$mail->Username = EMAIL;         // SMTP username
-		$mail->Password = PASS;          // SMTP password
+		$mail->Username = $mailto;         // SMTP username
+		$mail->Password = '*5689Balsys';          // SMTP password
 		$mail->SMTPSecure = 'tls';       // Enable TLS encryption, `ssl` also accepted
 		$mail->Port = 465;               // TCP port to connect to
 
     
     $mail->setFrom($mailto, 'Balansys');
-    $mail->addAddress($_POST['email']; );     // Add a recipient
+    $mail->addAddress($_POST['email']);     // Add a recipient
     
     $mail->addReplyTo($mailto);
 
