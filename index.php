@@ -1,7 +1,9 @@
 <?php 
 if(isset($_POST['submit'])){
 
-    require 'PHPMailer/PHPMailerAutoload.php';
+    require 'PHPMailer/Exception.php';
+    require 'PHPMailer/PHPMailer.php';
+    require 'PHPMailer/SMTP.php';
 
     $mail = new PHPMailer;
     // $mail->SMTPDebug = 4;     // Enable verbose debug output
