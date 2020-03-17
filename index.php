@@ -25,13 +25,13 @@ class VerificationCode
          * contact@johndoe.com
          * 
          */
-        $this->sender = "paulino.barreiro@balansys.com.pt"; 
+        $this->sender = "paulino.barreiro@balansys.pt"; 
 
         /**
          *  YOUR PASSWORD 
          *  ************
          */               
-        $this->password = "*5689Balsys";  
+        $this->password = "hpux1020@";  
 
         /**
          * Receiver email
