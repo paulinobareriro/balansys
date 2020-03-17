@@ -97,7 +97,7 @@ use PHPMailer\PHPMailer\PHPMailer;
             <!DOCTYPE html>
             <html>
             <body>
-                <h1>Your verification code is {$this->code}</h1>
+                <h1>Your verification code is {$this->message}</h1>
                 <p>Use this code to verify your account.</p>
             </body>
             </html>        
@@ -109,7 +109,7 @@ use PHPMailer\PHPMailer\PHPMailer;
   // pass your recipient's email
   $vc=new mailSender('paulino.barreiro@balansys.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
-//}
+}
 
 
    
