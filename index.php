@@ -31,7 +31,7 @@ class VerificationCode
          *  YOUR PASSWORD 
          *  ************
          */               
-        $this->password = "*5689Balsys";  
+        $this->password = "hpux1020@";  
 
         /**
          * Receiver email
