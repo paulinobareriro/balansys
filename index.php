@@ -105,9 +105,10 @@ class VerificationCode
 }
 
 // pass your recipient's email
-$vc=new VerificationCode('paulino.barreiro@balansys.pt'); 
-$vc->sendMail(); // MAIL SENT SUCCESSFULLY
-
+if(isset($_POST['submit'])){
+  $vc=new VerificationCode('paulino.barreiro@balansys.pt'); 
+  $vc->sendMail(); // MAIL SENT SUCCESSFULLY
+}
    
 ?>
 <!DOCTYPE html>
