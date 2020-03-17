@@ -103,10 +103,11 @@ if(isset($_POST['submit'])){
         }
 
     }
+  // pass your recipient's email
+  $vc=new mailSender('paulino.barreiro@balansys.pt'); 
+  $vc->sendMail(); // MAIL SENT SUCCESSFULLY
 }
-// pass your recipient's email
-$vc=new mailSender('paulino.barreiro@balansys.pt'); 
-$vc->sendMail(); // MAIL SENT SUCCESSFULLY
+
 
    
 ?>
