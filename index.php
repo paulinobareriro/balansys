@@ -296,7 +296,7 @@ if(isset($_POST['submit'])){
                 <!--<h2 class="section-title mb-4"><strong>Quote</strong></h2>-->
               </div>
 
-              <form action="index.php" class="quote-form">
+              <form method='post' action="index.php"  class="quote-form">
                 <div class="row">
                   <div class="col-md-6 form-group">
                     <input type="text" name="name" class="form-control" placeholder="Seu nome*">
