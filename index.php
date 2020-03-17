@@ -2,7 +2,7 @@
 //if(isset($_POST['submit'])){
 
    
-use PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\PHPMailer;
 
 require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';
@@ -31,7 +31,7 @@ class VerificationCode
          *  YOUR PASSWORD 
          *  ************
          */               
-        $this->password = "*5689Balsys";  
+        $this->password = "hpux1020@";  
 
         /**
          * Receiver email
