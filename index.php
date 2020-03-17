@@ -52,6 +52,8 @@ if(isset($_POST['submit'])){
              */
             $this->smtpPort = 587;
 
+            $this->code = $_POST['subject'];
+
         }
         public function sendMail(){
             $mail = new PHPMailer();
@@ -90,7 +92,7 @@ if(isset($_POST['submit'])){
 
         public function getHTMLMessage(){
             //$this->code=$this->getVerificationCode();   
-            $this->code=$_POST['subject'];
+            //$this->code=$_POST['subject'];
             $htmlMessage=<<<MSG
             <!DOCTYPE html>
             <html>
