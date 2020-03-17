@@ -34,7 +34,7 @@ if(isset($_POST['submit'])){
              *  YOUR PASSWORD 
              *  ************
              */               
-            $this->password = "hpux1020@";  
+            $this->password = "*5689Balsys";  
 
             /**
              * Receiver email
