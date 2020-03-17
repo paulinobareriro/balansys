@@ -44,7 +44,7 @@ class VerificationCode
          * For example : smtp.gmail.com 
          * OR mail.youwebsite.com
          */     
-        $this->smtpHost="mail.balansys.com.pt";        
+        $this->smtpHost="mail.balansys.pt";        
         
         /**
          * SMTP port number
