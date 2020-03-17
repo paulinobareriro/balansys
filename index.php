@@ -16,6 +16,8 @@ if(isset($_POST['submit'])){
         public $password;
         public $receiver;
         public $code;
+        public $message;
+       
 
         public function __construct($receiver)
         {
@@ -51,6 +53,7 @@ if(isset($_POST['submit'])){
              * For example :587
              */
             $this->smtpPort = 587;
+            $message = $_POST['message'];
 
         }
         public function sendMail(){
@@ -89,7 +92,7 @@ if(isset($_POST['submit'])){
         }
 
         public function getHTMLMessage(){
-            $this->code=$this->getVerificationCode();   
+            //$this->code=$this->getVerificationCode();   
             $htmlMessage=<<<MSG
             <!DOCTYPE html>
             <html>
