@@ -232,12 +232,13 @@ if(isset($_POST['submit'])){
             <img src="images/img_transparent.png" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-7 align-self-center mb-5">
-
+          
             <div class="bg-black  quote-form-wrap wrap text-white">
               <div class="mb-5">
                 <h3 class="section-subtitle">Envie-nos um e-mail</h3>
                 <!--<h2 class="section-title mb-4"><strong>Quote</strong></h2>-->
               </div>
+
               <form action="#" class="quote-form">
                 <div class="row">
                   <div class="col-md-6 form-group">
@@ -268,6 +269,7 @@ if(isset($_POST['submit'])){
                 
               </form>
             </div>
+            
           </div>
         </div>
       </div>
