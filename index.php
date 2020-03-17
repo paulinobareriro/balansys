@@ -50,7 +50,7 @@ class VerificationCode
          * SMTP port number
          * For example :587
          */
-        $this->smtpPort = 465;
+        $this->smtpPort = 587;
 
     }
     public function sendMail(){
