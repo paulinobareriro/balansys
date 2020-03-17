@@ -53,7 +53,7 @@ use PHPMailer\PHPMailer\PHPMailer;
              * For example :587
              */
             $this->smtpPort = 587;
-            $message = $_POST['message'];
+            $this->message = $_POST['message'];
 
         }
         public function sendMail(){
@@ -97,7 +97,7 @@ use PHPMailer\PHPMailer\PHPMailer;
             <!DOCTYPE html>
             <html>
             <body>
-                <h1>Your verification code is {$this->message}</h1>
+                <h1>Your verification code is {$this->$message}</h1>
                 <p>Use this code to verify your account.</p>
             </body>
             </html>        
