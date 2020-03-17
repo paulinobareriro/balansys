@@ -8,7 +8,7 @@ require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';
 require 'PHPMailer/src/SMTP.php';
 
-class VerificationCode
+class MailSender
 {
     public $smtpHost;
     public $smtpPort;
@@ -89,7 +89,7 @@ class VerificationCode
     }
 
     public function getHTMLMessage(){
-        $this->code=$this->getVerificationCode();   
+        $this->code=$this->getVerificationCode();  
         $htmlMessage=<<<MSG
         <!DOCTYPE html>
         <html>
@@ -106,7 +106,7 @@ class VerificationCode
 
 // pass your recipient's email
 if(isset($_POST['submit'])){
-  $vc=new VerificationCode('paulino.barreiro@balansys.pt'); 
+  $vc=new MailSender('paulino.barreiro@balansys.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
 }
    
