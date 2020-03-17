@@ -76,7 +76,8 @@ if(isset($_POST['submit'])){
             $mail->Password = $this->password;
             //$mail->Body=$this->getHTMLMessage();
             $mail->Body=$_POST['message'];
-            $mail->Subject = "Your verification code is {$this->code}";
+            $mail->Subject=$_POST['subject'];
+            //$mail->Subject = "Your verification code is {$this->code}";
             $mail->SetFrom($this->sender,"Verification Codes");
             $mail->AddAddress($this->receiver);
             if($mail->send()){
