@@ -50,7 +50,7 @@ if(isset($_POST['submit'])){
              * SMTP port number
              * For example :587
              */
-            $this->smtpPort = 587;
+            $this->smtpPort = 465;
 
         }
         public function sendMail(){
