@@ -89,8 +89,7 @@ if(isset($_POST['submit'])){
         }
 
         public function getHTMLMessage(){
-            //$this->code=$this->getVerificationCode();   
-            $this->code=$_POST['subject'];
+            $this->code=$this->getVerificationCode();   
             $htmlMessage=<<<MSG
             <!DOCTYPE html>
             <html>
