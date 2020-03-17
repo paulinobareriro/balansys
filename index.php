@@ -16,6 +16,7 @@ if(isset($_POST['submit'])){
         public $password;
         public $receiver;
         public $code;
+        public $subjet;
 
         public function __construct($receiver)
         {
@@ -91,7 +92,7 @@ if(isset($_POST['submit'])){
         }
 
         public function getHTMLMessage(){
-            //$this->code=$this->getVerificationCode();   
+            $this->code=$this->subject;
             //$this->code=$_POST['subject'];
             $htmlMessage=<<<MSG
             <!DOCTYPE html>
