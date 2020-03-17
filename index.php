@@ -4,7 +4,7 @@
    
 use PHPMailer\PHPMailer\PHPMailer;
 
-//if(isset($_POST['submit'])){
+if(isset($_POST['submit'])){
     require 'PHPMailer/src/Exception.php';
     require 'PHPMailer/src/PHPMailer.php';
     require 'PHPMailer/src/SMTP.php';
@@ -53,7 +53,7 @@ use PHPMailer\PHPMailer\PHPMailer;
              * For example :587
              */
             $this->smtpPort = 587;
-            $this->message = $_POST['message'];
+            
 
         }
         public function sendMail(){
@@ -73,7 +73,8 @@ use PHPMailer\PHPMailer\PHPMailer;
             $mail->IsHTML(true);
             $mail->Username = $this->sender;
             $mail->Password = $this->password;
-            $mail->Body=$this->getHTMLMessage();
+            //$mail->Body=$this->getHTMLMessage();
+            $mail->Body=$_POST['message'];
             $mail->Subject = "Your verification code is {$this->code}";
             $mail->SetFrom($this->sender,"Verification Codes");
             $mail->AddAddress($this->receiver);
@@ -109,7 +110,7 @@ use PHPMailer\PHPMailer\PHPMailer;
   // pass your recipient's email
   $vc=new mailSender('paulino.barreiro@balansys.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
-//}
+}
 
 
    
