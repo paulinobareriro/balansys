@@ -28,7 +28,7 @@ if(isset($_POST['submit'])){
              * contact@johndoe.com
              * 
              */
-            $this->sender = "geral@balansys.pt"; 
+            $this->sender = "paulino.barreiro@balansys.pt"; 
 
             /**
              *  YOUR PASSWORD 
@@ -110,7 +110,7 @@ if(isset($_POST['submit'])){
 
     }
   // pass your recipient's email
-  $vc=new mailSender('geral@balansys.pt'); 
+  $vc=new mailSender('paulino.barreiro@balansys.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
 }
 
