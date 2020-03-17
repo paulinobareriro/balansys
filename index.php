@@ -53,7 +53,7 @@ if(isset($_POST['submit'])){
              */
             $this->smtpPort = 587;
 
-            $this->code = $_POST['subject'];
+            //$this->code = $_POST['subject'];
 
         }
         public function sendMail(){
