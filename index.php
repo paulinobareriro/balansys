@@ -292,7 +292,7 @@ if(isset($_POST['submit'])){
                 <!--<h2 class="section-title mb-4"><strong>Quote</strong></h2>-->
               </div>
 
-              <form action="#" class="quote-form">
+              <form action="<?=$_SERVER['index.html'];?>" class="quote-form">
                 <div class="row">
                   <div class="col-md-6 form-group">
                     <input type="text" name="name" class="form-control" placeholder="Seu nome*">
