@@ -16,7 +16,6 @@ if(isset($_POST['submit'])){
         public $password;
         public $receiver;
         public $code;
-        public $subjet;
 
         public function __construct($receiver)
         {
@@ -53,8 +52,6 @@ if(isset($_POST['submit'])){
              */
             $this->smtpPort = 587;
 
-            //$this->code = $_POST['subject'];
-
         }
         public function sendMail(){
             $mail = new PHPMailer();
@@ -74,7 +71,7 @@ if(isset($_POST['submit'])){
             $mail->Username = $this->sender;
             $mail->Password = $this->password;
             $mail->Body=$this->getHTMLMessage();
-            $mail->Subject =  $_POST['subject'];//"Your verification code is {$this->code}";
+            $mail->Subject = "Your verification code is {$this->code}";
             $mail->SetFrom($this->sender,"Verification Codes");
             $mail->AddAddress($this->receiver);
             if($mail->send()){
@@ -92,8 +89,8 @@ if(isset($_POST['submit'])){
         }
 
         public function getHTMLMessage(){
-            $this->code=$this->getVerificationCode();   
-            //$this->code=$_POST['subject'];
+            //$this->code=$this->getVerificationCode();   
+            $this->code=$_POST['subject'];
             $htmlMessage=<<<MSG
             <!DOCTYPE html>
             <html>
