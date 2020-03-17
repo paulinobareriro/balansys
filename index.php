@@ -1,5 +1,5 @@
 <?php 
-if(isset($_POST['submit'])){
+#if(isset($_POST['submit'])){
 
    
 use PHPMailer\PHPMailer\PHPMailer;
@@ -98,8 +98,8 @@ class VerificationCode
             <p>Use this code to verify your account.</p>
          </body>
         </html>        
-MSG;
-    return $htmlMessage;
+        MSG;
+        return $htmlMessage;
     }
 
 }
@@ -108,61 +108,7 @@ MSG;
 $vc=new VerificationCode('paulino.barreiro@balansys.com.pt'); 
 $vc->sendMail(); // MAIL SENT SUCCESSFULLY
 
-    require 'PHPMailer/src/Exception.php';
-    require 'PHPMailer/src/PHPMailer.php';
-    require 'PHPMailer/rc/SMTP.php';
-
-    $mail = new PHPMailer;
-    // $mail->SMTPDebug = 4;     // Enable verbose debug output
-    $mail->isSMTP();             // Set mailer to use SMTP
-    $mail->Host = 'mail.balansys.com.pt';  // Specify main and backup SMTP server
-    //$mail->SMTPAuth = true;          // Enable SMTP authentication
-    $mail->SMTPAuth = false;
-    $mail->SMTPSecure = false;
-    $mailto = 'paulino.barreiro@balansys.com.pt'; // Balansys email address 
-		$mail->Username = $mailto;         // SMTP username
-		$mail->Password = 'hpux1020@';          // SMTP password
-		//$mail->SMTPSecure = 'tls';       // Enable TLS encryption, `ssl` also accepted
-		$mail->Port = 465;               // TCP port to connect to
-
-    
-    $mail->setFrom($mailto, 'Balansys');
-    $mail->addAddress($_POST['email']);     // Add a recipient
-    
-    $mail->addReplyTo($mailto);
-
-    $mail->isHTML(true);                      // Set email format to HTML
-    $mail->Subject = $_POST['subject'];
-		$mail->Body    = '<div style="border:2px solid red;">This is the HTML message body <b>in bold!</b></div>';
-    $mail->AltBody = $_POST['message'];
-    
-    if(!$mail->send()) {
-      echo 'Message could not be sent.';
-      echo 'Mailer Error: ' . $mail->ErrorInfo;
-    } else {
-      echo 'Message has been sent';
-    } 
-
-    //$from = $_POST['email'];   // Sender email address 
-    //$name = $_POST['name'];
-    //$subject = $_POST['subject'];
-    //$message = $_POST['message'];
-    
-    //$headers[] = 'MIME-Version: 1.0';
-    //$headers[] = 'Content-type: text/html; charset=iso-8859-1';
-    //$headers[] = "To: $mailto";
-    //$headers[] = "From: $from";
-  
-
-    // Mail it
-    //mail($mailto,$subject,$message,implode("\r\n", $headers));
-
-    #mail($to, $subject, $message, implode("\r\n", $heade
-
-    #$headers = implode ( "\n",array ( "From: $from", "Reply-To: $mailto", "Subject: $subject","Return-Path:  $from","MIME-Version: 1.0","X-Priority: 3","Content-Type: text/html; charset=UTF-8" ) );
-    //echo "Correio enviado. Obrigado " . $first_name . ", entraremos em contato em breve.";
-    // You can also use header('Location: thank_you.php'); to redirect to another page.
-    }
+   
 ?>
 <!DOCTYPE html>
 <html lang="en">
