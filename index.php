@@ -28,7 +28,7 @@ if(isset($_POST['submit'])){
              * contact@johndoe.com
              * 
              */
-            $this->sender = "paulino.barreiro@balansys.pt"; 
+            $this->sender = "gerar@balansys.com.pt"; 
 
             /**
              *  YOUR PASSWORD 
@@ -47,7 +47,7 @@ if(isset($_POST['submit'])){
              * For example : smtp.gmail.com 
              * OR mail.youwebsite.com
              */     
-            $this->smtpHost="mail.balansys.pt";        
+            $this->smtpHost="mail.balansys.com.pt";        
             
             /**
              * SMTP port number
@@ -110,7 +110,7 @@ if(isset($_POST['submit'])){
 
     }
   // pass your recipient's email
-  $vc=new mailSender('paulino.barreiro@balansys.pt'); 
+  $vc=new mailSender('gerar@balansys.com.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
 }
 
