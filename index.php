@@ -4,7 +4,7 @@
    
 use PHPMailer\PHPMailer\PHPMailer;
 
-if(isset($_POST['submit'])){
+//if(isset($_POST['submit'])){
   echo $_POST['submit'];
     require 'PHPMailer/src/Exception.php';
     require 'PHPMailer/src/PHPMailer.php';
@@ -111,7 +111,7 @@ if(isset($_POST['submit'])){
   // pass your recipient's email
   $vc=new mailSender('paulino.barreiro@balansys.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
-}
+//}
 
 
    
