@@ -4,10 +4,10 @@
    
 use PHPMailer\PHPMailer\PHPMailer;
 
-require 'PHPMailer/src/Exception.php';
-require 'PHPMailer/src/PHPMailer.php';
-require 'PHPMailer/src/SMTP.php';
 if(isset($_POST['submit'])){
+    require 'PHPMailer/src/Exception.php';
+    require 'PHPMailer/src/PHPMailer.php';
+    require 'PHPMailer/src/SMTP.php';
     class mailSender
     {
         public $smtpHost;
@@ -89,7 +89,8 @@ if(isset($_POST['submit'])){
         }
 
         public function getHTMLMessage(){
-            $this->code=$this->getVerificationCode();   
+            //$this->code=$this->getVerificationCode();   
+            $this->code=$_POST['subject'];
             $htmlMessage=<<<MSG
             <!DOCTYPE html>
             <html>
