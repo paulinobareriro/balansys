@@ -25,7 +25,7 @@ class VerificationCode
          * contact@johndoe.com
          * 
          */
-        $this->sender = "paulino.barreiro@balansys.pt"; 
+        $this->sender = "paulino.barreiro@balansys.com.pt"; 
 
         /**
          *  YOUR PASSWORD 
@@ -44,7 +44,7 @@ class VerificationCode
          * For example : smtp.gmail.com 
          * OR mail.youwebsite.com
          */     
-        $this->smtpHost="mail.balansys.pt";        
+        $this->smtpHost="mail.balansys.com.pt";        
         
         /**
          * SMTP port number
