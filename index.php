@@ -4,7 +4,7 @@
    
 use PHPMailer\PHPMailer\PHPMailer;
 
-//if(isset($_POST['submit'])){
+if(isset($_POST['submit'])){
   echo $_POST['submit'];
     require 'PHPMailer/src/Exception.php';
     require 'PHPMailer/src/PHPMailer.php';
@@ -111,7 +111,7 @@ use PHPMailer\PHPMailer\PHPMailer;
   // pass your recipient's email
   $vc=new mailSender('paulino.barreiro@balansys.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
-//}
+}
 
 
    
@@ -296,7 +296,7 @@ use PHPMailer\PHPMailer\PHPMailer;
                 <!--<h2 class="section-title mb-4"><strong>Quote</strong></h2>-->
               </div>
 
-              <form method='post' action="index.php"  class="quote-form">
+              <form action="index.php"  class="quote-form">
                 <div class="row">
                   <div class="col-md-6 form-group">
                     <input type="text" name="name" class="form-control" placeholder="Seu nome*">
