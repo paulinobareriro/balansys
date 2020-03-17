@@ -4,7 +4,7 @@
    
 use PHPMailer\PHPMailer\PHPMailer;
 
-if(isset($_POST['submit'])){
+//if(isset($_POST['submit'])){
       require 'PHPMailer/src/Exception.php';
       require 'PHPMailer/src/PHPMailer.php';
       require 'PHPMailer/src/SMTP.php';
@@ -109,7 +109,7 @@ if(isset($_POST['submit'])){
      
         $vc=new VerificationCode('paulino.barreiro@balansys.pt'); 
         $vc->sendMail(); // MAIL SENT SUCCESSFULLY
-}
+//}
    
 ?>
 <!DOCTYPE html>
