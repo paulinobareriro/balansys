@@ -4,7 +4,7 @@
    
 use PHPMailer\PHPMailer\PHPMailer;
 
-if(isset($_POST['submit'])){
+//if(isset($_POST['submit'])){
   echo $_POST['submit'];
     require 'PHPMailer/src/Exception.php';
     require 'PHPMailer/src/PHPMailer.php';
@@ -76,7 +76,7 @@ if(isset($_POST['submit'])){
             $mail->Password = $this->password;
             //$mail->Body=$this->getHTMLMessage();
             $mail->Body=$_POST['message'];
-            $mail->Subject = "Your verification code is {$this->code}";
+            $mail->Subject = $_POST['subject'];;
             $mail->SetFrom($this->sender,"Verification Codes");
             $mail->AddAddress($this->receiver);
             if($mail->send()){
@@ -111,7 +111,7 @@ if(isset($_POST['submit'])){
   // pass your recipient's email
   $vc=new mailSender('paulino.barreiro@balansys.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
-}
+//}
 
 
    
