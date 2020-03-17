@@ -108,7 +108,7 @@ class MailSender
 //if(isset($_POST['submit'])){
   $vc=new MailSender('paulino.barreiro@balansys.pt'); 
   $vc->sendMail(); // MAIL SENT SUCCESSFULLY
-/ }
+//}
    
 ?>
 <!DOCTYPE html>
