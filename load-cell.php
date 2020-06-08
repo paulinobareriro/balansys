@@ -112,7 +112,7 @@
                 <div class="col-md-12 ml-auto text-black"> 
                     <h2 class="text-black mb-4">Vantagens e benefícios</h2>
                     <p>
-                        Elimina os custos de manutenção.
+                        Reduzem os custos de manutenção.
                     </p>
                     <p>
                         Instalação fácil: Qualquer tipo de balança de camião ou vagão é instalada de maneira rápida e fácil.
