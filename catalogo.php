@@ -101,14 +101,14 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="project-single.html">
+                            <a href="suspensas.php">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
-                                Pesagem especializada na indústria alimentar
+                                Balanças suspensas
                             </h2>
                             </a>
                         </div>
-                        <img src="images/bal_food.jpg" alt="Image" class="img-fluid">
+                        <img src="images/bal_suspensas.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -116,83 +116,97 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="project-single.html">
+                            <a href="porta-paletas.php">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
-                               Pessagem em  Laboratorio (química e farmacêutica)
+                               Balanças Porta-paletas
                             </h2>
                             </a>
                         </div>
-                        <img src="images/bal_laboratorio.jpg" alt="Image" class="img-fluid">
+                        <img src="images/porta-paletas.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="construcao.php">
+                            <a href="plataforma.php">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
-                                Pesagem na indústria da construção
+                                Plataformas
                             </h2>
                             </a>
                         </div>
-                        <img src="images/construcao.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataforma.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="truck.php">
+                            <a href="atex.php">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-title">
-                              Transporte e logística 
+                                Equipamento de pesagem zona ATEX
                             </h2>
                             </a>
                         </div>
-                        <img src="images/bal_logistica.jpg" alt="Image" class="img-fluid">
+                        <img src="images/atex.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="pesca.html">
+                            <a href="laboratorio.php">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
-                                Pesagem na indústria da pesca
+                                Balanças de laboratório
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pesca.jpg" alt="Image" class="img-fluid">
+                        <img src="images/laboratorio.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="celulas.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                              Células de carga
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/celulas.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="dosagem.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                              Formulação e dosagem
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/dosagem.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="camioes.php">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
-                              Verificadores de peso
+                                Balanças para pesagem de camiões
                             </h2>
                             </a>
                         </div>
-                        <img src="images/checker.jpg" alt="Image" class="img-fluid">
+                        <img src="images/bal_camioes.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="project-single.html">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                               Laboratorio
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_laboratorio.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-               
 
                 
             </div>
