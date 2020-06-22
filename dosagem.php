@@ -134,7 +134,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-            <p class="mb-4"><img src="images/logo_balancys.png" alt="Image" class="img-fluid"></p>
+            <p class="mb-4"><img src="images/logo_balansys.png" alt="Image" class="img-fluid"></p>
             <p>A <strong>Balansys</strong> projeta, constrói e comercializa dispositivos e soluções integradas de pesagem, baseadas nas mais recentes tecnologias, e adaptadas às necessidades específicas de cada área de atividade.</p>  
             <!--
             <p><a href="#">Learn More</a></p>
