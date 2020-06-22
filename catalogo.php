@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!--Begin Head-->
 <head>
-  <!--Begin Head-->
-  <head>
-    <?php $page='produtos'; include 'includes/head.php'; ?>
-  </head>
-  <!--End Head-->
+  <?php $page='catalogo'; include 'includes/head.php'; ?>
 </head>
-
+<!--End Head-->
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
   <div class="site-wrap">
@@ -75,93 +71,140 @@
           </div>
         </div>
       </div>
-      
       <!--Begin NavBar-->
         <?php include 'includes/navbar.php'; ?>
       <!--End NavBar  -->
-      
+
     </div>
     
 
 
-
-    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/celdas-md.jpg');">
+    <!--  
+    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/hero_1.jpg');">
       <div class="container">
         <div class="row align-items-center text-center border">
           <div class="col-lg-12 mt-5" data-aos="fade-up">
-            <h1>Células de carga digitais</h1>
+            <h1>Produtos</h1>
             <p class="text-white text-center">
-              <a href="produtos.php">Produtos</a>
+              <a href="index.php">Início</a>
               <span class="mx-2">/</span>
-              <span>Saiba Mais</span>
+              <span>Produtos</span>
             </p>
           </div>
         </div>
       </div>
     </div>
-
-    
+    -->
     <div class="site-section">
         <div class="container">
             <div class="row">
-                <!--
-                <div class="col-md-7 mb-4">
-                    <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="project-single.html">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                                Pesagem especializada na indústria alimentar
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/bal_food.jpg" alt="Image" class="img-fluid">
+                    </div>
                 </div>
-                -->
-                <div class="col-md-12 ml-auto text-black"> 
-                    <h2 class="text-black mb-4">Vantagens e benefícios</h2>
-                    <p>
-                        Reduzem os custos de manutenção.
-                    </p>
-                    <p>
-                        Instalação fácil: Qualquer tipo de balança de camião ou vagão é instalada de maneira rápida e fácil.
-                    </p>
-                    <p>
-                        Precisão garantida ao longo do tempo: Evite a incerteza diária de saber como a balança do camião estará pesando, mesmo nas condições de trabalho mais adversas.
-                    </p>
-                    <p>
-                        Confiabilidade total, elimina as causas de falhas frequentes nas balanças de camiões: com/sem caixas de derivação, todos os ajustes são feitos a partir do indicador de peso.       
-                    </p>
-                    <p>
-                        Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na ecrã, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador.
-                    </p> 
-                    <p>
-                        Facilidade e velocidade de reparo, Reduzem o tempo de inatividade devido a quebra ou falha. As células de carga, os cabos ou o indicador de peso são substituídos sem recalibrar a balança.
-                    </p>
-                    <p>
-                        Rastreabilidade + segurança: registro interno programável, inviolável, pesado e eventos de balanceamento.
-                    </p>
-                    <p>
-                        Monitoramento on-line de temperatura, tensão, linearidade, instabilidade, zero e sensibilidade em cada célula de carga.
-                    </p>
-                    <p>
-                        Conexões seguras com controle total do indicador: rede e indicador de célula, com/sem terminais ou caixa de derivação.
-                    </p>
-                    <p>
-                        Proteção contra raios verificada por testes independentes, demonstrando sua resistência a um pico de 80.000 amperes.
-                    </p>
-                    <p>
-                        Encapsulamento da célula de carga em aço inoxidável com vedação hermética IP68 + IP69k, e a conexão através do conector com vedação vidro-metal que garante a estanqueidade. A umidade não afeta a saída de dados.
-                    </p>
-                    <p>
-                        Cabos de aço inoxidável de malha dupla. Evita danos causados ​​por roedores e evita radiofrequência ou interferência eletromagnética.
-                    </p>
-                    <p>
-                        Serviço pós-venda profissional, com pessoal treinado e infraestrutura adequada às suas necessidades.
-                    </p> 
-                   <!--
-                  
-                   <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
-                    -->
-                    <!--
-                      <p><a href="#" class="btn btn-primary rounded-0 py-3 px-5">Visit Site</a></p>
-                    -->
-               </div>
+                
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="project-single.html">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                               Pessagem em  Laboratorio (química e farmacêutica)
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/bal_laboratorio.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="construcao.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                                Pesagem na indústria da construção
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/construcao.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="truck.php">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Transporte e logística 
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/bal_logistica.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="pesca.html">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                                Pesagem na indústria da pesca
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/pesca.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="project-single.html">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                              Verificadores de peso
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/checker.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="project-single.html">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                               Laboratorio
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/bal_laboratorio.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+               
+
+                
             </div>
         </div>
     </div>
     
+
+            
+            
+    
+
+
     <div class="footer">
       <div class="container">
         <div class="row">
@@ -229,27 +272,9 @@
 
 
   <!-- loader -->
-  <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#ff5e15"/></svg></div>
-
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/jquery.countdown.min.js"></script>
-  <script src="js/bootstrap-datepicker.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/aos.js"></script>
-  <script src="js/jquery.fancybox.min.js"></script>
-  <script src="js/jquery.sticky.js"></script>
-  <script src="js/jquery.mb.YTPlayer.min.js"></script>
-
-
-
-
-  <script src="js/main.js"></script>
+  <!-- Begin scripts -->
+   <?php include 'includes/scripts.php'; ?>
+  <!-- End scripts -->  
 
 </body>
 

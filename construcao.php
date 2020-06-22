@@ -85,11 +85,11 @@
 
 
 
-    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/celdas-md.jpg');">
+    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/trucks.jpg');">
       <div class="container">
         <div class="row align-items-center text-center border">
           <div class="col-lg-12 mt-5" data-aos="fade-up">
-            <h1>Células de carga digitais</h1>
+            <h1>Pesa camiãoes</h1>
             <p class="text-white text-center">
               <a href="produtos.php">Produtos</a>
               <span class="mx-2">/</span>
@@ -110,46 +110,14 @@
                 </div>
                 -->
                 <div class="col-md-12 ml-auto text-black"> 
-                    <h2 class="text-black mb-4">Vantagens e benefícios</h2>
+                    <h2 class="text-black mb-4">Gestão de transporte de cargas</h2>
                     <p>
-                        Reduzem os custos de manutenção.
+                        A otimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua indústria.
+                        As perdas de tempo a acertar as cargas são custos que só no passado eram aceites.
+                        Com uma pesagem rápida e precisa, é possível aumentar a produção expedida diariamente.
+                        Saiba como pode utilizar uma balança de pesagem de camiões para ajudar a gerir a sua atividade.
                     </p>
-                    <p>
-                        Instalação fácil: Qualquer tipo de balança de camião ou vagão é instalada de maneira rápida e fácil.
-                    </p>
-                    <p>
-                        Precisão garantida ao longo do tempo: Evite a incerteza diária de saber como a balança do camião estará pesando, mesmo nas condições de trabalho mais adversas.
-                    </p>
-                    <p>
-                        Confiabilidade total, elimina as causas de falhas frequentes nas balanças de camiões: com/sem caixas de derivação, todos os ajustes são feitos a partir do indicador de peso.       
-                    </p>
-                    <p>
-                        Diagnóstico preditivo: sistema de auto-monitoramento que notifica (na ecrã, por e-mail ou mensagem de texto) possíveis erros de pesagem imperceptíveis para o operador.
-                    </p> 
-                    <p>
-                        Facilidade e velocidade de reparo, Reduzem o tempo de inatividade devido a quebra ou falha. As células de carga, os cabos ou o indicador de peso são substituídos sem recalibrar a balança.
-                    </p>
-                    <p>
-                        Rastreabilidade + segurança: registro interno programável, inviolável, pesado e eventos de balanceamento.
-                    </p>
-                    <p>
-                        Monitoramento on-line de temperatura, tensão, linearidade, instabilidade, zero e sensibilidade em cada célula de carga.
-                    </p>
-                    <p>
-                        Conexões seguras com controle total do indicador: rede e indicador de célula, com/sem terminais ou caixa de derivação.
-                    </p>
-                    <p>
-                        Proteção contra raios verificada por testes independentes, demonstrando sua resistência a um pico de 80.000 amperes.
-                    </p>
-                    <p>
-                        Encapsulamento da célula de carga em aço inoxidável com vedação hermética IP68 + IP69k, e a conexão através do conector com vedação vidro-metal que garante a estanqueidade. A umidade não afeta a saída de dados.
-                    </p>
-                    <p>
-                        Cabos de aço inoxidável de malha dupla. Evita danos causados ​​por roedores e evita radiofrequência ou interferência eletromagnética.
-                    </p>
-                    <p>
-                        Serviço pós-venda profissional, com pessoal treinado e infraestrutura adequada às suas necessidades.
-                    </p> 
+                     
                    <!--
                   
                    <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
