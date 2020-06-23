@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!--Begin Head-->
 <head>
-  <!--Begin Head-->
-  <head>
-    <?php $page='produtos'; include 'includes/head.php'; ?>
-  </head>
-  <!--End Head-->
+  <?php $page='suspensas'; include 'includes/head.php'; ?>
 </head>
-
+<!--End Head-->
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
   <div class="site-wrap">
@@ -75,61 +71,275 @@
           </div>
         </div>
       </div>
-      
       <!--Begin NavBar-->
         <?php include 'includes/navbar.php'; ?>
       <!--End NavBar  -->
-      
+
     </div>
     
 
 
-
-    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/trucks.jpg');">
-      <div class="container">
-        <div class="row align-items-center text-center border">
-          <div class="col-lg-12 mt-5" data-aos="fade-up">
-            <h1>Pesa camiãoes</h1>
-            <p class="text-white text-center">
-              <a href="produtos.php">Produtos</a>
-              <span class="mx-2">/</span>
-              <span>Saiba Mais</span>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    
     <div class="site-section">
         <div class="container">
             <div class="row">
-                <!--
-                <div class="col-md-7 mb-4">
-                    <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                              Célula de carga digital da série GLC
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_glc.jpg" alt="Image" class="img-fluid">
+                    </div>
                 </div>
-                -->
-                <div class="col-md-12 ml-auto text-black"> 
-                    <h2 class="text-black mb-4">Gestão de transporte de cargas</h2>
-                    <p>
-                        A otimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua indústria.
-                        As perdas de tempo a acertar as cargas são custos que só no passado eram aceites.
-                        Com uma pesagem rápida e precisa, é possível aumentar a produção expedida diariamente.
-                        Saiba como pode utilizar uma balança de pesagem de camiões para ajudar a gerir a sua atividade.
-                    </p>
-                     
-                   <!--
-                  
-                   <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
-                    -->
-                    <!--
-                      <p><a href="#" class="btn btn-primary rounded-0 py-3 px-5">Visit Site</a></p>
-                    -->
-               </div>
+                
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                              células de carga single point da série SPO
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_spo.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                              Células de carga bending beam da série FXC
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_fxc.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Células de carga em aço niquelado cortado "SBT", de 500 kg até 2000 kg
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_sbt.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Células de carga de cisalhamento duplo série RSBT
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_rsbt.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Células de compressão de baixo perfil da série CPX
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_cpx.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              "STU-1K": Células de carga de tração para pesar cargas suspensas
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_stu-1k.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Células com coluna analógica da série dini argeo "RCPT"
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_rcpt.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Células com oluna digital dini argeo em aço inoxidável, série "RCD"
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_rcd.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Kit de aço inoxidável da série "KFXDN" para células de carga de flexão  FXC / FXD
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_FXCFXD.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                               Kit em aço niquelado "KSBC", para células de carga com cisalhamento SBT / SBK / SBX
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_ksbc.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                               Kit em aço galvanizado série "KSBN" para células de carga SBT / SBK / SBX de vigas de cisalhamento
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_ksbn.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Kit em aço inoxidável da série "KSBX", para células de carga de cisalhamento SBT / SBK / SBX
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_ksbx.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+               
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Kit da série em aço inoxidável "KDSBN" para células de carga com feixe de cisalhamento duplo DSBI
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_kdsbn.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Kits em aço niquelado da série KCPNA para células de carga de compressão CPX / CPA
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_kcpna.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Kits em aço niquelado da série KCPNA para células de carga de compressão CPX / CPA
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_kcpn.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+               
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Kit de aço inoxidável da série "ELGO" para células de carga de compressão CPX / CPA
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_elgo.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Kit de acero inoxidable serie “RBJ” para celdas de carga a tracción STU/STG/STFU
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/cc_rbj.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </div>
     
+
+            
+            
+    
+
+
     <div class="footer">
       <div class="container">
         <div class="row">
@@ -197,27 +407,9 @@
 
 
   <!-- loader -->
-  <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#ff5e15"/></svg></div>
-
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/jquery.countdown.min.js"></script>
-  <script src="js/bootstrap-datepicker.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/aos.js"></script>
-  <script src="js/jquery.fancybox.min.js"></script>
-  <script src="js/jquery.sticky.js"></script>
-  <script src="js/jquery.mb.YTPlayer.min.js"></script>
-
-
-
-
-  <script src="js/main.js"></script>
+  <!-- Begin scripts -->
+   <?php include 'includes/scripts.php'; ?>
+  <!-- End scripts -->  
 
 </body>
 
