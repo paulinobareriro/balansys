@@ -130,7 +130,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="plataforma.php">
+                            <a href="plataformas.php">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
                                 Plataformas

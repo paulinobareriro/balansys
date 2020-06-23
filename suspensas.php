@@ -137,60 +137,7 @@
                         <img src="images/hulk.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="laboratorio.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Balanças de laboratório
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/laboratorio.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="celulas.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Células de carga
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/celulas.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="dosagem.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Formulação e dosagem
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/dosagem.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="camioes.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Balanças para pesagem de camiões
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_camioes.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
+              
 
                 
             </div>
