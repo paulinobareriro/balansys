@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!--Begin Head-->
 <head>
-  <!--Begin Head-->
-  <head>
-    <?php $page='produtos'; include 'includes/head.php'; ?>
-  </head>
-  <!--End Head-->
+  <?php $page='catalogo'; include 'includes/head.php'; ?>
 </head>
-
+<!--End Head-->
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
   <div class="site-wrap">
@@ -75,61 +71,88 @@
           </div>
         </div>
       </div>
-      
       <!--Begin NavBar-->
         <?php include 'includes/navbar.php'; ?>
       <!--End NavBar  -->
-      
+
     </div>
     
 
 
-
-    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/trucks.jpg');">
-      <div class="container">
-        <div class="row align-items-center text-center border">
-          <div class="col-lg-12 mt-5" data-aos="fade-up">
-            <h1>Pesa camiãoes</h1>
-            <p class="text-white text-center">
-              <a href="produtos.php">Produtos</a>
-              <span class="mx-2">/</span>
-              <span>Saiba Mais</span>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    
     <div class="site-section">
         <div class="container">
             <div class="row">
-                <!--
-                <div class="col-md-7 mb-4">
-                    <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                               Balanças de camiões modulares tipo america "WBSA APPROVED"
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/ca_wbsa.jpg" alt="Image" class="img-fluid">
+                    </div>
                 </div>
-                -->
-                <div class="col-md-12 ml-auto text-black"> 
-                    <h2 class="text-black mb-4">Gestão de transporte de cargas</h2>
-                    <p>
-                        A otimização da carga dos camiões é um dos aspectos mais importantes para melhorar a produtividade da sua indústria.
-                        As perdas de tempo a acertar as cargas são custos que só no passado eram aceites.
-                        Com uma pesagem rápida e precisa, é possível aumentar a produção expedida diariamente.
-                        Saiba como pode utilizar uma balança de pesagem de camiões para ajudar a gerir a sua atividade.
-                    </p>
-                     
-                   <!--
-                  
-                   <p class="mb-5">Atque rerum fugiat iste voluptas, magni mollitia, cupiditate corporis perferendis veniam</p>
-                    -->
-                    <!--
-                      <p><a href="#" class="btn btn-primary rounded-0 py-3 px-5">Visit Site</a></p>
-                    -->
-               </div>
+                
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                              Balanças de camiões móvel série DTW "DUAL TRACK"
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/ca_dtw.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-title">
+                              Plataforma para pesagem dinâmica de eixos de veículos "RWSCP"
+                            </a>
+                        </div>
+                        <img src="images/ca_rwscp.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-title">
+                              Terminal de computador industrial para sistemas de autoatendimento e balanças de camiões, ecrã tátil colorida de 10,1 "
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/ca_6116box.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                
+                
+
+
+                
+
             </div>
         </div>
     </div>
     
+
+            
+            
+    
+
+
     <div class="footer">
       <div class="container">
         <div class="row">
@@ -197,27 +220,9 @@
 
 
   <!-- loader -->
-  <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#ff5e15"/></svg></div>
-
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/jquery.countdown.min.js"></script>
-  <script src="js/bootstrap-datepicker.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/aos.js"></script>
-  <script src="js/jquery.fancybox.min.js"></script>
-  <script src="js/jquery.sticky.js"></script>
-  <script src="js/jquery.mb.YTPlayer.min.js"></script>
-
-
-
-
-  <script src="js/main.js"></script>
+  <!-- Begin scripts -->
+   <?php include 'includes/scripts.php'; ?>
+  <!-- End scripts -->  
 
 </body>
 

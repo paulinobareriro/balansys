@@ -184,14 +184,14 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="dosagem.php">
+                            <a href="visores.php">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-title">
-                              Formulação e dosagem
+                               Indicadores de Pesagem
                             </h2>
                             </a>
                         </div>
-                        <img src="images/dosagem.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">

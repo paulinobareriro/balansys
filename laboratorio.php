@@ -2,7 +2,7 @@
 <html lang="en">
 <!--Begin Head-->
 <head>
-  <?php $page='suspensas'; include 'includes/head.php'; ?>
+  <?php $page='catalogo'; include 'includes/head.php'; ?>
 </head>
 <!--End Head-->
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
