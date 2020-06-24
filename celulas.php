@@ -87,7 +87,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Célula de carga digital da série GLC
                             </h2>
                             </a>
@@ -102,7 +102,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               células de carga single point da série SPO
                             </h2>
                             </a>
@@ -116,7 +116,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Células de carga bending beam da série FXC
                             </h2>
                             </a>
@@ -130,7 +130,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Células de carga em aço niquelado cortado "SBT", de 500 kg até 2000 kg
                             </h2>
                             </a>
@@ -143,7 +143,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Células de carga de cisalhamento duplo série RSBT
                             </h2>
                             </a>
@@ -156,7 +156,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Células de compressão de baixo perfil da série CPX
                             </h2>
                             </a>
@@ -169,7 +169,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               "STU-1K": Células de carga de tração para pesar cargas suspensas
                             </h2>
                             </a>
@@ -182,7 +182,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Células com coluna analógica da série dini argeo "RCPT"
                             </h2>
                             </a>
@@ -195,7 +195,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Células com oluna digital dini argeo em aço inoxidável, série "RCD"
                             </h2>
                             </a>
@@ -208,7 +208,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Kit de aço inoxidável da série "KFXDN" para células de carga de flexão  FXC / FXD
                             </h2>
                             </a>
@@ -222,7 +222,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Kit em aço niquelado "KSBC", para células de carga com cisalhamento SBT / SBK / SBX
                             </h2>
                             </a>
@@ -236,7 +236,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Kit em aço galvanizado série "KSBN" para células de carga SBT / SBK / SBX de vigas de cisalhamento
                             </h2>
                             </a>
@@ -250,7 +250,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Kit em aço inoxidável da série "KSBX", para células de carga de cisalhamento SBT / SBK / SBX
                             </h2>
                             </a>
@@ -264,7 +264,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Kit da série em aço inoxidável "KDSBN" para células de carga com feixe de cisalhamento duplo DSBI
                             </h2>
                             </a>
@@ -278,7 +278,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Kits em aço niquelado da série KCPNA para células de carga de compressão CPX / CPA
                             </h2>
                             </a>
@@ -292,7 +292,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Kits em aço niquelado da série KCPNA para células de carga de compressão CPX / CPA
                             </h2>
                             </a>
@@ -306,7 +306,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Kit de aço inoxidável da série "ELGO" para células de carga de compressão CPX / CPA
                             </h2>
                             </a>
@@ -320,7 +320,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Kit de acero inoxidable serie “RBJ” para celdas de carga a tracción STU/STG/STFU
                             </h2>
                             </a>

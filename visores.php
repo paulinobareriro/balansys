@@ -87,7 +87,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Indicador de pesagem com ecrã tátil de 8" para ambientes industriaias
                             </h2>
                             </a>
@@ -102,7 +102,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador de pesagem com ecrã tátil de 8 polegadas série "3590EGT8"
                             </h2>
                             </a>
@@ -116,7 +116,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador de pesagem com ecrã tátil de 8 polegadas para montagem em painel série "3590EGTB8"                           </h2>
                             </a>
                         </div>
@@ -129,7 +129,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador de pesagem com ecrã tátil para ambientes industriaias série "3590ET"
                             </h2>
                             </a>
@@ -143,7 +143,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador de pesagem com ecrã tátil para aplicações industriais avançadas série "3590EGT"
                             </h2>
                             </a>
@@ -157,7 +157,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador de pesagem com ecrã tátil para zonas ATEX 2 & 22
                             </h2>
                             </a>
@@ -171,7 +171,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador de pesagem com ecrã tátil para zonas EX 2 & 22
                             </h2>
                             </a>
@@ -185,7 +185,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador de pesagem com ecrã tátil para aplicações industriais série "3590EGTT"
                             </h2>
                             </a>
@@ -199,7 +199,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador de pesagem com ecrã tátil no estojo de transporte série "3590ETKR"
                             </h2>
                             </a>
@@ -213,7 +213,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador avançado com ecrã de 40 mm Color "3590ED"
                             </h2>
                             </a>
@@ -227,7 +227,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador avançado com teclado QWERTY integrado 3590EQ
                             </h2>
                             </a>
@@ -241,7 +241,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador para aplicações industriais avançadas, em ABS ip65 "3590EXP"
                             </h2>
                             </a>
@@ -255,7 +255,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador para aplicações industriais avançadas, em aço inoxidável IP68 "3590EXT"
                             </h2>
                             </a>
@@ -269,7 +269,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador para aplicações industriais avançada em zonas ATEX 2 & 22 3590E "ENTERPRISE"
                             </h2>
                             </a>
@@ -283,7 +283,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador com estojo de transporte para aplicações avançadas "3590EKR" "ENTERPRISE"
                             </h2>
                             </a>
@@ -297,7 +297,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Microcontrolador/Indicador de pesagem para automatización industrial "CPWE"
                             </h2>
                             </a>
@@ -311,7 +311,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Indicador de pesagem em inoxidável, lcd com dígito grande "DFWLID"
                             </h2>
                             </a>
@@ -325,7 +325,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Indicador de pesagem multifuncional "DFW XP"
                             </h2>
                             </a>
@@ -339,7 +339,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador com led vermelho em alto brilho "DFWR - RED LED"
                             </h2>
                             </a>
@@ -353,7 +353,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador para balança de camião, com função de entrada / saída DFWT "TRUCK"
                             </h2>
                             </a>
@@ -367,7 +367,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador para pesagem de veículos
                             </h2>
                             </a>
@@ -381,7 +381,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador com ecrã grande e leds vermelhos com alto brilho "DFWDXT"
                             </h2>
                             </a>
@@ -395,7 +395,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                 Indicador multifuncional em aço inoxidável IP68 "DFWKXT"
                             </h2>
                             </a>
@@ -409,7 +409,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                 Indicador para as zonas 1 e 21 da ATEX "DFWATEX2GD"
                             </h2>
                             </a>
@@ -423,7 +423,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Indicador para dosagem nas zonas ATEX 1 e 21 "DFWATEX2GDF"
                             </h2>
                             </a>
@@ -437,7 +437,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Indicador para pesagem IECEx  para zonas ex 2 & 22 "DFW-IECEX3GD"
                             </h2>
                             </a>
@@ -451,7 +451,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Indicador para  para zonas ex 2 & 22 "DFWATEX3GD"
                             </h2>
                             </a>
@@ -465,7 +465,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Transmisor de pesagem de alta velocidad "DGT4X"
                             </h2>
                             </a>
@@ -479,7 +479,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador digital de pesagem, multifuncional "DGT1S"
                             </h2>
                             </a>
@@ -493,7 +493,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Indicador digital de pesagem, multifuncional "DGT1"
                             </h2>
                             </a>
@@ -507,7 +507,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                 Transmisor de pesagem de 4 canales "DGT4"
                             </h2>
                             </a>
@@ -521,7 +521,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                 indicador de pesagem série "DGTQ"
                             </h2>
                             </a>
@@ -535,7 +535,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Microcontrolador para sistemas de dosagem industriais "DGTPF"
                             </h2>
                             </a>
@@ -549,7 +549,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Microcontrolador para sistemas de dosagem industriais com teclado estendido "DGTPKF"
                             </h2>
                             </a>
@@ -563,7 +563,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Indicador grande / repetidor de pasagem universal "DGT100"
                             </h2>
                             </a>
@@ -577,7 +577,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                 PC industrial com ecrã tátil com entrada de escala integrada "6116PRO"
                             </h2>
                             </a>
@@ -591,7 +591,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Computador IP67 para ambientes industriais com ecrã táti, série "6116"
                             </h2>
                             </a>
@@ -605,7 +605,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Repetidores de pesagem série "DFW"
                             </h2>
                             </a>
@@ -619,7 +619,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Repetidores de pesagem série "DGT"
                             </h2>
                             </a>
@@ -635,7 +635,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Indicador/ Repetidor de pasagem para zonas de risco de explosão DGT603GD "GOLIAH"
                             </h2>
                             </a>
@@ -649,7 +649,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Controlador remoto repetidor de pesagem portátil DFWPM "PLAY MOBILE"
                             </h2>
                             </a>

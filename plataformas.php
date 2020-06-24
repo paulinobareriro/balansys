@@ -87,7 +87,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataforma redonda monocélula da série RPLC
                             </h2>
                             </a>
@@ -102,7 +102,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas mono-célula da série PB
                             </h2>
                             </a>
@@ -116,7 +116,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas mono célula da série T
                             </h2>
                             </a>
@@ -130,7 +130,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas mono célula da série T "C6" 
                             </h2>
                             </a>
@@ -143,7 +143,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas mono-célula em aço inoxidável da série PBI
                             </h2>
                             </a>
@@ -156,7 +156,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas de 4 células da série ES 600x600mm
                             </h2>
                             </a>
@@ -169,7 +169,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataforma de chão série FL
                             </h2>
                             </a>
@@ -182,7 +182,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas de 4 células da série ET
                             </h2>
                             </a>
@@ -195,7 +195,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas em aço inoxidável a 4 células da série ES 600x600mm
                             </h2>
                             </a>
@@ -208,7 +208,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas em aço inoxidável de 4 células série ETI
                             </h2>
                             </a>
@@ -221,7 +221,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas de baixo perfil série "FLP"
                             </h2>
                             </a>
@@ -234,7 +234,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas de aço inoxidável de baixo perfil da série LPI
                             </h2>
                             </a>
@@ -248,7 +248,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataformas de pesagem de ferro da série SW
                             </h2>
                             </a>

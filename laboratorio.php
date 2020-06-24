@@ -87,7 +87,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança analítica da série  GAT-N com vitrine de alta proteção
                             </h2>
                             </a>
@@ -102,7 +102,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança analítica "TOP-LOADING" série ALP
                             </h2>
                             </a>
@@ -116,7 +116,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança técnica de precisão "TOP-LOADING" GAL                             </h2>
                             </a>
                         </div>
@@ -129,7 +129,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balanza técnica de precisión serie GAI
                             </h2>
                             </a>
@@ -143,7 +143,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança técnica de precisão série HLD com vitrine de proteção
                             </h2>
                             </a>
@@ -157,7 +157,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança de precisão "TOP-LOADING" da série ALP
                             </h2>
                             </a>
@@ -171,7 +171,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança técnica de precisão em aço inoxidável série GAM
                             </h2>
                             </a>
@@ -185,7 +185,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança técnica de precisão série HLD
                             </h2>
                             </a>
@@ -199,7 +199,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança técnica de precisão em aço inoxidável gaep-k series
                             </h2>
                             </a>
@@ -213,7 +213,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balança técnica de precisão em aço inoxidável da série GAEPKR com sistema de recalibração automática
                             </h2>
                             </a>
@@ -227,7 +227,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balanças técnicas em aço inoxidável IP65 TRD series
                             </h2>
                             </a>
@@ -241,7 +241,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Balança de balcão compacta série WLB
                             </h2>
                             </a>
@@ -255,7 +255,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Termo Balança serie ALGS
                             </h2>
                             </a>
@@ -269,7 +269,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Termo Balança serie ALGM
                             </h2>
                             </a>

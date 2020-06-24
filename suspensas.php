@@ -87,7 +87,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                 Balanças suspensas com seguridade simple Serie MCWN "Ninja"
                             </h2>
                             </a>
@@ -102,7 +102,7 @@
                         <div class="project-item-contents">
                             <a href="porta-paletas.php">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balanças suspensas em aço inoxidável MCW09 "Profissional"
                             </h2>
                             </a>
@@ -116,7 +116,7 @@
                         <div class="project-item-contents">
                             <a href="plataforma.php">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balanças suspensas serie MCW "Profissional"
                             </h2>
                             </a>
@@ -129,7 +129,7 @@
                         <div class="project-item-contents">
                             <a href="atex.php">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balanças suspensas serie MCWHU "HULK"
                             </h2>
                             </a>

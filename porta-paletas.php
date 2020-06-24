@@ -87,7 +87,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                 Porta Paleta Serie TPWN "NETWORK" com balança eletrônica integrada
                             </h2>
                             </a>
@@ -102,7 +102,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Porta Paleta Serie TPWNBT "BATTERY" com bateria recarregável
                             </h2>
                             </a>
@@ -116,7 +116,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Porta Paleta Serie TPWLK "LOGISTIC"
                             </h2>
                             </a>
@@ -130,7 +130,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Porta Paleta Serie TPWET "ENTERPRISE" com Ecrã tátil   
                             </h2>
                             </a>
@@ -143,7 +143,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Porta Paleta ATEX Serie TPWX2GD "HAZARDOUS ZONE" 
                             </h2>
                             </a>
@@ -156,7 +156,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Porta Paleta ATEX Serie TPWX3GD "HAZARDOUS ZONE" 
                             </h2>
                             </a>
