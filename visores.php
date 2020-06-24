@@ -628,19 +628,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-3 mb-4">
-                  <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Indicador grande / repetidor de pasagem universal "DGT100" 
-                            </h2>
-                            </a>
-                        </div> 
-                        <img src="images/r_dgt100.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
+        
 
                 <div class="col-md-6 col-lg-3 mb-4">
                   <div class="project-item">
