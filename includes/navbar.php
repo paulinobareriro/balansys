@@ -7,11 +7,12 @@
                 <li class="<?php if($page=='home'){echo 'active';}?>">
                   <a href="index.php" class="nav-link text-left">Início</a>
                 </li>
-                <li class="<?php if($page=='produtos'){echo 'active';}?>">
-                  <a href="produtos.php" class="nav-link text-left">Produtos</a>
-                </li> 
+              
                 <li class="<?php if($page=='catalogo'){echo 'active';}?>">
                   <a href="catalogo.php" class="nav-link text-left">Catálogo</a>
+                </li> 
+                <li class="<?php if($page=='produtos'){echo 'active';}?>">
+                  <a href="produtos.php" class="nav-link text-left">Geral</a>
                 </li> 
                 <li class="<?php if($page=='about'){echo 'active';}?>">
                   <a href="about.php" class="nav-link text-left">Sobre Nós</a>

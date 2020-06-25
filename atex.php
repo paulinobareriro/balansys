@@ -2,7 +2,7 @@
 <html lang="en">
 <!--Begin Head-->
 <head>
-  <?php $page='suspensas'; include 'includes/head.php'; ?>
+  <?php $page='catalogo'; include 'includes/head.php'; ?>
 </head>
 <!--End Head-->
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -86,176 +86,17 @@
                     <div class="project-item">
                         <div class="project-item-contents">
                             <a href="#">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Plataforma redonda monocélula da série RPLC
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-item">
+                              Indicador de pesagem com ecrã tátil para zonas EX 2 & 22
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_rplc.jpg" alt="Image" class="img-fluid">
+                        <img src="images/vp_3590egt-iecex3gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Plataformas mono-célula da série PB
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_pb.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Plataformas mono célula da série T
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_t.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas mono célula da série T "C6" 
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_tc6.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas mono-célula em aço inoxidável da série PBI
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_pbi.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas de 4 células da série ES 600x600mm
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_es.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataforma de chão série FL
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_fl.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas de 4 células da série ET
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_et.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas em aço inoxidável a 4 células da série ES 600x600mm
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_es_ai.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas em aço inoxidável de 4 células série ETI
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_eti.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas de baixo perfil série "FLP"
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_flp.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                  <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas de aço inoxidável de baixo perfil da série LPI
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_lpi.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-3 mb-4">
-                  <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="#">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                              Plataformas de pesagem de ferro da série SW
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/pl_sw.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
+               
                 
             </div>
         </div>
