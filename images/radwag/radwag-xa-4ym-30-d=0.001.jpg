@@ -1,0 +1,6 @@
+<br />
+<b>Warning</b>:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for //public/media/produkty/laboratoryjne/jpg-hires/xa-4ym-30-d=0.001.jpg in <b>/application/controllers/media.php</b> on line <b>248</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /application/controllers/media.php:248) in <b>/application/controllers/media.php</b> on line <b>248</b><br />
+<br />
+<b>Warning</b>:  readfile(//public/media/produkty/laboratoryjne/jpg-hires/xa-4ym-30-d=0.001.jpg) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in <b>/application/controllers/media.php</b> on line <b>251</b><br />

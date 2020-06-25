@@ -92,7 +92,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_glc.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_glc.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -107,7 +107,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_spo.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_spo.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -121,7 +121,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_fxc.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_fxc.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -135,7 +135,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_sbt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_sbt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -148,7 +148,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_rsbt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_rsbt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -161,7 +161,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_cpx.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_cpx.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -174,7 +174,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_stu-1k.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_stu-1k.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -187,7 +187,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_rcpt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_rcpt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -200,7 +200,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_rcd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_rcd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -213,7 +213,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_FXCFXD.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_FXCFXD.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -227,7 +227,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_ksbc.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_ksbc.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -241,7 +241,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_ksbn.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_ksbn.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -255,7 +255,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_ksbx.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_ksbx.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                
@@ -269,7 +269,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_kdsbn.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_kdsbn.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -283,7 +283,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_kcpna.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_kcpna.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -297,7 +297,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_kcpn.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_kcpn.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                
@@ -311,7 +311,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_elgo.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_elgo.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -325,7 +325,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/cc_rbj.jpg" alt="Image" class="img-fluid">
+                        <img src="images/celulas/cc_rbj.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 

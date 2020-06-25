@@ -92,7 +92,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-as-r-d=0.01-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-as-r-d=0.01-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -105,7 +105,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-as-3y-d=0.1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-as-3y-d=0.1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -118,7 +118,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-as-r-d=0.1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-as-r-d=0.1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -131,7 +131,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-as-x2-d=0.01-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-as-x2-d=0.01-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -144,7 +144,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-as-x2-d=0.1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-as-x2-d=0.1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -158,7 +158,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4ymai-30-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4ymai-30-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -173,7 +173,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4ymai-50-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4ymai-50-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -187,7 +187,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4ym-50-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4ym-50-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -201,7 +201,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4yma-30-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4yma-30-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -215,7 +215,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4yma-50-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4yma-50-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -229,7 +229,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4ya-d=0.1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4ya-d=0.1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -243,7 +243,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4yma-30-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4yma-30-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -258,7 +258,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4yma-50-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4yma-50-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -272,7 +272,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4ymai-30-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4ymai-30-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -286,7 +286,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4ymaip-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4ymaip-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -300,7 +300,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa4y-f-d=0.01-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa4y-f-d=0.01-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -314,7 +314,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wlc-a1-C-2-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wlc-a1-C-2-d=0.01-g.jpg" alt="Image" class="img-fluid">
                                           
                    </div>
                 </div>
@@ -328,7 +328,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wlc-a2-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wlc-a2-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -341,7 +341,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wlc-c-k-d=0.1-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wlc-c-k-d=0.1-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -354,7 +354,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wlc-c-r-d=0.1-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wlc-c-r-d=0.1-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -367,7 +367,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wlc-f-k-d=0.1-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wlc-f-k-d=0.1-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -380,7 +380,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wlc-f-r-d=0.1-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wlc-f-r-d=0.1-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -393,7 +393,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wlc-x2-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wlc-x2-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -406,7 +406,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wly-c-k-d=0.01-kg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wly-c-k-d=0.01-kg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -419,7 +419,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wly-c-r-d=0.01-kg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wly-c-r-d=0.01-kg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -432,7 +432,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wly-d2-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wly-d2-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -445,7 +445,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wly-f-k-d=0.01-kg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wly-f-k-d=0.01-kg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -458,7 +458,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wly-f-r-d=0.01-kg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wly-f-r-d=0.01-kg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -471,7 +471,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wtc-b-d=0.001-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wtc-b-d=0.001-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -485,7 +485,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-wtc-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-wtc-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -498,7 +498,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-uya-4y-f-d=0.0001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-uya-4y-f-d=0.0001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -511,7 +511,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-uya-4y-d=0.0001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-uya-4y-d=0.0001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -524,7 +524,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-2rh-d=1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-2rh-d=1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -537,7 +537,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-3y-128-d=1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-3y-128-d=1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -550,7 +550,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-3y-6000-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-3y-6000-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -563,7 +563,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-r-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-r-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -576,7 +576,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-r-6000-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-r-6000-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -589,7 +589,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-x2-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-x2-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -602,7 +602,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-x2-6000-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-x2-6000-195-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -615,7 +615,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-x2-d=1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-x2-d=1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -628,7 +628,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-pm-10-4y-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-pm-10-4y-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -641,7 +641,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-pm-10-c32-d=0.01-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-pm-10-c32-d=0.01-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -654,7 +654,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-pm-50-4y-d=0.1-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-pm-50-4y-d=0.1-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -667,7 +667,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-pm-50-c32-d=0.1-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-pm-50-c32-d=0.1-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -680,7 +680,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-pm-60-4y-d=0.1-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-pm-60-4y-d=0.1-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -693,7 +693,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-pm-60-c32-d=0.1-g.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-pm-60-c32-d=0.1-g.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -706,7 +706,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-mya-4y-p-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-mya-4y-p-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -719,7 +719,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-xa-4ya-d=0.1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-xa-4ya-d=0.1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -732,7 +732,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-ps-3y-128-d=1-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-ps-3y-128-d=1-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -745,7 +745,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-mya-4y-p-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-mya-4y-p-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -758,7 +758,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-mya-4y-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-mya-4y-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -771,7 +771,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/radwag-mya-4y-f-d=0.001-mg.jpg" alt="Image" class="img-fluid">
+                        <img src="images/radwag/radwag-mya-4y-f-d=0.001-mg.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 

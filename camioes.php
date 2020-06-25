@@ -92,7 +92,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/ca_wbsa.jpg" alt="Image" class="img-fluid">
+                        <img src="images/camiones/ca_wbsa.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -107,7 +107,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/ca_dtw.jpg" alt="Image" class="img-fluid">
+                        <img src="images/camiones/ca_dtw.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -120,7 +120,7 @@
                               Plataforma para pesagem dinâmica de eixos de veículos "RWSCP"
                             </a>
                         </div>
-                        <img src="images/ca_rwscp.jpg" alt="Image" class="img-fluid">
+                        <img src="images/camiones/ca_rwscp.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -134,7 +134,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/ca_6116box.jpg" alt="Image" class="img-fluid">
+                        <img src="images/camiones/ca_6116box.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 

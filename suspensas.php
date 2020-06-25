@@ -25,7 +25,7 @@
         <div class="row align-items-center">
           <div class="col-6 col-lg-3">
             <a href="index.php">
-              <img src="images/logo_balansys.png" alt="Image" class="img-fluid">
+              <img src="images/suspensas/logo_balansys.png" alt="Image" class="img-fluid">
             </a>
           </div>
           <div class="col-lg-3 d-none d-lg-block">
@@ -92,7 +92,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/ninja.jpg" alt="Image" class="img-fluid">
+                        <img src="images/suspensas/ninja.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -107,7 +107,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/profesional.jpg" alt="Image" class="img-fluid">
+                        <img src="images/suspensas/profesional.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -121,7 +121,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/MCW.jpg" alt="Image" class="img-fluid">
+                        <img src="images/suspensas/MCW.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -134,7 +134,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/hulk.jpg" alt="Image" class="img-fluid">
+                        <img src="images/suspensas/hulk.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
               
@@ -154,7 +154,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-            <p class="mb-4"><img src="images/logo_balansys.png" alt="Image" class="img-fluid"></p>
+            <p class="mb-4"><img src="images/suspensas/logo_balansys.png" alt="Image" class="img-fluid"></p>
             <p>A <strong>Balansys</strong> projeta, constrói e comercializa dispositivos e soluções integradas de pesagem, baseadas nas mais recentes tecnologias, e adaptadas às necessidades específicas de cada área de atividade.</p>  
             <!--
             <p><a href="#">Learn More</a></p>

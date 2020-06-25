@@ -92,7 +92,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/tpwn.jpg" alt="Image" class="img-fluid">
+                        <img src="images/porta-paletas/tpwn.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -107,7 +107,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/tpwnbt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/porta-paletas/tpwnbt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -121,7 +121,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/tpwa.jpg" alt="Image" class="img-fluid">
+                        <img src="images/porta-paletas/tpwa.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -135,7 +135,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/tpwet.jpg" alt="Image" class="img-fluid">
+                        <img src="images/porta-paletas/tpwet.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -148,7 +148,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/tpwx2gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/porta-paletas/tpwx2gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -161,7 +161,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/tpwx3gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/porta-paletas/tpwx3gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 

@@ -92,7 +92,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590et8.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590et8.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -107,7 +107,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590egt8.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590egt8.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -120,7 +120,7 @@
                               Indicador de pesagem com ecrã tátil de 8 polegadas para montagem em painel série "3590EGTB8"                           </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590egtb8.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590egtb8.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -134,7 +134,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590et.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590et.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -148,7 +148,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590egt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590egt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -162,7 +162,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590egr-3gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590egr-3gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -176,7 +176,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590egt-iecex3gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590egt-iecex3gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -190,7 +190,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp-3590egtt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp-3590egtt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -204,7 +204,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590etkr.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590etkr.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -218,7 +218,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590ed.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590ed.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -232,7 +232,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590eq.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590eq.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -246,7 +246,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590exp.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590exp.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -260,7 +260,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_590ext.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_590ext.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                
@@ -274,7 +274,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_e3590ext3gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_e3590ext3gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                
@@ -288,7 +288,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590ekr.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590ekr.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -302,7 +302,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_cpwe.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_cpwe.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -316,7 +316,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_dfwl.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwl.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -330,7 +330,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_dfw-xp.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfw-xp.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -344,7 +344,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_dfwr-redled.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwr-redled.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -372,7 +372,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfwkrp.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwkrp.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -386,7 +386,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfwdxt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwdxt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -400,7 +400,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfwkxt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwkxt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -414,7 +414,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfwatex2gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwatex2gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -428,7 +428,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfwatex2gdf.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwatex2gdf.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -442,7 +442,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfw-iecex3gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfw-iecex3gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -456,7 +456,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfwatex3gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwatex3gd.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -470,7 +470,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgt4x.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgt4x.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -484,7 +484,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgt1s.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgt1s.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -498,7 +498,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgt1.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgt1.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -512,7 +512,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgt4.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgt4.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -526,7 +526,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgtq.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgtq.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -540,7 +540,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgtf.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgtf.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -554,7 +554,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgtpkf.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgtpkf.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -568,7 +568,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgt100.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgt100.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -582,7 +582,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_6116pro.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_6116pro.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -596,7 +596,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_6116.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_6116.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -610,7 +610,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfw.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfw.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -624,7 +624,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgt.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgt.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -640,7 +640,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dgt603gd-goliah.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dgt603gd-goliah.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -654,7 +654,7 @@
                             </h2>
                             </a>
                         </div> 
-                        <img src="images/vp_dfwpm.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_dfwpm.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 

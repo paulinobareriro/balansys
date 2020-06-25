@@ -92,7 +92,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_rplc.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_rplc.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -107,7 +107,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_pb.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_pb.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -121,7 +121,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_t.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_t.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -135,7 +135,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_tc6.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_tc6.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -148,7 +148,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_pbi.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_pbi.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -161,7 +161,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_es.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_es.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -174,7 +174,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_fl.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_fl.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -187,7 +187,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_et.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_et.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -200,7 +200,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_es_ai.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_es_ai.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -213,7 +213,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_eti.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_eti.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -226,7 +226,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_flp.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_flp.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-4">
@@ -239,7 +239,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_lpi.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_lpi.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
@@ -253,7 +253,7 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/pl_sw.jpg" alt="Image" class="img-fluid">
+                        <img src="images/plataformas/pl_sw.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
