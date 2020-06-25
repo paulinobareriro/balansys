@@ -92,7 +92,72 @@
                             </h2>
                             </a>
                         </div>
-                        <img src="images/vp_3590egt-iecex3gd.jpg" alt="Image" class="img-fluid">
+                        <img src="images/visores/vp_3590egt-iecex3gd.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-item">
+                               Indicador para pesagem IECEx  para zonas ex 2 & 22 "DFW-IECEX3GD"
+                            </h2>
+                            </a>
+                        </div> 
+                        <img src="images/visores/vp_dfw-iecex3gd.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-item">
+                               Indicador para  para zonas ex 2 & 22 "DFWATEX3GD"
+                            </h2>
+                            </a>
+                        </div> 
+                        <img src="images/visores/vp_dfwatex3gd.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-item">
+                               Indicador para dosagem nas zonas ATEX 1 e 21 "DFWATEX2GDF"
+                            </h2>
+                            </a>
+                        </div> 
+                        <img src="images/visores/vp_dfwatex2gdf.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                  <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category">Saiba Mais</span>
+                            <h2 class="project-item-item">
+                               Indicador/ Repetidor de pasagem para zonas de risco de explosão DGT603GD "GOLIAH"
+                            </h2>
+                            </a>
+                        </div> 
+                        <img src="images/visores/vp_dgt603gd-goliah.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="#">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Indicador de pesagem com ecrã tátil de 8 polegadas série "3590EGT8"
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/visores/vp_3590egt8.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 

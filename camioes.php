@@ -87,7 +87,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                                Balanças de camiões modulares tipo america "WBSA APPROVED"
                             </h2>
                             </a>
@@ -102,7 +102,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Balanças de camiões móvel série DTW "DUAL TRACK"
                             </h2>
                             </a>
@@ -116,8 +116,9 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Plataforma para pesagem dinâmica de eixos de veículos "RWSCP"
+                            </h2>  
                             </a>
                         </div>
                         <img src="images/camiones/ca_rwscp.jpg" alt="Image" class="img-fluid">
@@ -129,7 +130,7 @@
                         <div class="project-item-contents">
                             <a href="#">
                             <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
+                            <h2 class="project-item-item">
                               Terminal de computador industrial para sistemas de autoatendimento e balanças de camiões, ecrã tátil colorida de 10,1 "
                             </h2>
                             </a>
