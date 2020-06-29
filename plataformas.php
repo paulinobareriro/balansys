@@ -85,7 +85,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-monocelulas/plataforma-rplc.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Plataforma redonda monocélula da série RPLC
@@ -100,7 +100,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-monocelulas/pb-es-2.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Plataformas mono-célula da série PB
@@ -114,7 +114,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-monocelulas/nuevas-t.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Plataformas mono célula da série T
@@ -128,7 +128,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-monocelulas/t-clase-c6.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas mono célula da série T "C6" 
@@ -141,7 +141,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-monocelulas/pbi-es-2.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas mono-célula em aço inoxidável da série PBI
@@ -154,7 +154,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-con-4-celulas/plataforma-es.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas de 4 células da série ES 600x600mm
@@ -167,7 +167,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-con-4-celulas/es-fl.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataforma de chão série FL
@@ -180,7 +180,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-con-4-celulas/plataforma-et.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas de 4 células da série ET
@@ -193,7 +193,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-con-4-celulas/esi-es.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas em aço inoxidável a 4 células da série ES 600x600mm
@@ -206,7 +206,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-con-4-celulas/eti-inox-c3-es.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas em aço inoxidável de 4 células série ETI
@@ -219,7 +219,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-con-4-celulas-de-bajo-perfil/flp-1-es.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas de baixo perfil série "FLP"
@@ -232,7 +232,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                   <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-con-4-celulas-de-bajo-perfil/lpi-bajo-perfil.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas de aço inoxidável de baixo perfil da série LPI
@@ -246,7 +246,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                   <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/modulos-de-pesaje/plataformas-pesa-hierro/sw-pesa-hierro.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Plataformas de pesagem de ferro da série SW

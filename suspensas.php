@@ -85,7 +85,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/ganchos-pesadores/mcwn-es.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                                 Balanças suspensas com seguridade simple Serie MCWN "Ninja"
@@ -100,7 +100,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/ganchos-pesadores/mcw09-es.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Balanças suspensas em aço inoxidável MCW09 "Profissional"
@@ -114,7 +114,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/ganchos-pesadores/mcw-es.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Balanças suspensas serie MCW "Profissional"
@@ -127,7 +127,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                           <a href="#">
+                           <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/ganchos-pesadores/mcwhu-es.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Balanças suspensas serie MCWHU "HULK"
@@ -154,7 +154,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-            <p class="mb-4"><img src="images/suspensas/logo_balansys.png" alt="Image" class="img-fluid"></p>
+            <p class="mb-4"><img src="images/logo_balansys.png" alt="Image" class="img-fluid"></p>
             <p>A <strong>Balansys</strong> projeta, constrói e comercializa dispositivos e soluções integradas de pesagem, baseadas nas mais recentes tecnologias, e adaptadas às necessidades específicas de cada área de atividade.</p>  
             <!--
             <p><a href="#">Learn More</a></p>

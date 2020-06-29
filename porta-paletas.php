@@ -85,7 +85,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/transpaletas-pesadoras/tpwn-transpaleta.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                                 Porta Paleta Serie TPWN "NETWORK" com balança eletrônica integrada
@@ -100,7 +100,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/transpaletas-pesadoras/tpwnbt-es.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Porta Paleta Serie TPWNBT "BATTERY" com bateria recarregável
@@ -114,7 +114,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/transpaletas-pesadoras/tpwlk-2017-es.aspx">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Porta Paleta Serie TPWLK "LOGISTIC"
@@ -128,7 +128,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/transpaletas-pesadoras/tpwe-es.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Porta Paleta Serie TPWET "ENTERPRISE" com Ecrã tátil   
@@ -141,7 +141,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/transpaletas-pesadoras/tpwx2gd-es-2.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Porta Paleta ATEX Serie TPWX2GD "HAZARDOUS ZONE" 
@@ -154,7 +154,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="#">
+                            <a href="http://www.diniargeo.es/prd/basculas-y-balanzas/pesaje-movil/transpaletas-pesadoras/tpwx3gd-es-2.aspx">
                             <span class="project-item-category">Saiba Mais</span>
                             <h2 class="project-item-item">
                               Porta Paleta ATEX Serie TPWX3GD "HAZARDOUS ZONE" 
