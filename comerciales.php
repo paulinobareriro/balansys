@@ -79,36 +79,20 @@
     
 
 
-    <!--  
-    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/hero_1.jpg');">
-      <div class="container">
-        <div class="row align-items-center text-center border">
-          <div class="col-lg-12 mt-5" data-aos="fade-up">
-            <h1>Produtos</h1>
-            <p class="text-white text-center">
-              <a href="index.php">Início</a>
-              <span class="mx-2">/</span>
-              <span>Produtos</span>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    -->
     <div class="site-section">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="suspensas.php">
+                            <a href="saturno.php">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Balanças suspensas
+                            <h2 class="project-item-item">
+                               Gama Saturno
                             </h2>
                             </a>
                         </div>
-                        <img src="images/bal_suspensas.jpg" alt="Image" class="img-fluid">
+                        <img src="images/comerciales/saturno.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -116,113 +100,118 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="porta-paletas.php">
+                            <a href="euroscale.php">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                               Balanças Porta-paletas
+                            <h2 class="project-item-item">
+                              Gama EuroScale
                             </h2>
                             </a>
                         </div>
-                        <img src="images/porta-paletas.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="plataformas.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Plataformas
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/plataforma.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="atex.php">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                                Equipamento de pesagem zona ATEX
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/atex.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="laboratorio.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Balanças de laboratório
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/laboratorio.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-            
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="comerciales.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                balanças comerciais
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/comerciales.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="celulas.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Células de carga
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/celulas.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="visores.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                               Indicadores de Pesagem
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/visores.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="camioes.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Balanças para pesagem de camiões
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_camioes.jpg" alt="Image" class="img-fluid">
+                        <img src="images/comerciales/euroescale.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="jupiter.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Júpiter
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/jupiter.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="urano.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Urano
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/urano.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="marte.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Marte
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/marte.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
                 
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="basica.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Básica
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/basica.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="neptuno.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Neptuno
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/neptuno.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="etiquetado.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Etiquetado
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/etiquetado.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="postal.php">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Postal
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/postal.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+                
+
+                
+
             </div>
         </div>
     </div>

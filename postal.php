@@ -79,36 +79,20 @@
     
 
 
-    <!--  
-    <div class="intro-section site-blocks-cover innerpage" style="background-image: url('images/hero_1.jpg');">
-      <div class="container">
-        <div class="row align-items-center text-center border">
-          <div class="col-lg-12 mt-5" data-aos="fade-up">
-            <h1>Produtos</h1>
-            <p class="text-white text-center">
-              <a href="index.php">Início</a>
-              <span class="mx-2">/</span>
-              <span>Produtos</span>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    -->
     <div class="site-section">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="suspensas.php">
+                            <a href="touchscale.php">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Balanças suspensas
+                            <h2 class="project-item-item">
+                               Gama Postal: DLI-80
                             </h2>
                             </a>
                         </div>
-                        <img src="images/bal_suspensas.jpg" alt="Image" class="img-fluid">
+                        <img src="images/comerciales/postal/dli-80.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
                 
@@ -116,113 +100,73 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="porta-paletas.php">
+                            <a href="k-scale.php">
                             <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                               Balanças Porta-paletas
+                            <h2 class="project-item-item">
+                              Gama Postal: Marte MF Postal
                             </h2>
                             </a>
                         </div>
-                        <img src="images/porta-paletas.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="plataformas.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Plataformas
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/plataforma.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="atex.php">
-                            <span class="project-item-category">Saiba Mais</span>
-                            <h2 class="project-item-title">
-                                Equipamento de pesagem zona ATEX
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/atex.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="laboratorio.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Balanças de laboratório
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/laboratorio.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-            
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="comerciales.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                balanças comerciais
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/comerciales.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="celulas.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                              Células de carga
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/celulas.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="visores.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                               Indicadores de Pesagem
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/visores.jpg" alt="Image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="project-item">
-                        <div class="project-item-contents">
-                            <a href="camioes.php">
-                            <span class="project-item-category"></span>
-                            <h2 class="project-item-title">
-                                Balanças para pesagem de camiões
-                            </h2>
-                            </a>
-                        </div>
-                        <img src="images/bal_camioes.jpg" alt="Image" class="img-fluid">
+                        <img src="images/comerciales/postal/marte-mf-postal.jpg" alt="Image" class="img-fluid">
                     </div>
                 </div>
 
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="*">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Postal: Marte Postal
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/postal/marte-postal.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="*">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Postal: DLT Postal
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/postal/dlt-Postal.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="*">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Postal: DLI Postal
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/postal/dli-Postal.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
                 
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="project-item">
+                        <div class="project-item-contents">
+                            <a href="*">
+                            <span class="project-item-category"></span>
+                            <h2 class="project-item-item">
+                              Gama Postal: DLT ARM Postal
+                            </h2>
+                            </a>
+                        </div>
+                        <img src="images/comerciales/postal/dlt-arm-postal.jpg" alt="Image" class="img-fluid">
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
