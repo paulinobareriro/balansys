@@ -85,7 +85,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="touchscale.php">
+                            <a href="http://www.grupoepelsa.com/postal-single.php?varproducto=9">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                                Gama Postal: DLI-80
@@ -100,7 +100,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="k-scale.php">
+                            <a href="http://www.grupoepelsa.com/postal-single.php?varproducto=41">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Gama Postal: Marte MF Postal
@@ -114,7 +114,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="*">
+                            <a href="http://www.grupoepelsa.com/postal-single.php?varproducto=42">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Gama Postal: Marte Postal
@@ -128,7 +128,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="*">
+                            <a href="http://www.grupoepelsa.com/postal-single.php?varproducto=43">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Gama Postal: DLT Postal
@@ -142,7 +142,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="*">
+                            <a href="http://www.grupoepelsa.com/postal-single.php?varproducto=44">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Gama Postal: DLI Postal
@@ -156,7 +156,7 @@
                 <div class="col-md-6 col-lg-3 mb-4">
                     <div class="project-item">
                         <div class="project-item-contents">
-                            <a href="*">
+                            <a href="http://www.grupoepelsa.com/postal-single.php?varproducto=45">
                             <span class="project-item-category"></span>
                             <h2 class="project-item-item">
                               Gama Postal: DLT ARM Postal
